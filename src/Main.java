@@ -8,7 +8,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) throws IOException {
         ArrayList<String[]> data = new ArrayList<String[]>();
-        BufferedReader in = new BufferedReader(new FileReader("data/SP22Eng.tsv"));
+        BufferedReader in = new BufferedReader(new FileReader("data/SP22EngSimple.tsv"));
         String str;
         while ((str = in.readLine()) != null) {
             String[] row = str.split("\t");
@@ -19,12 +19,12 @@ public class Main {
         //System.out.println(data);
 
         Course[] SP21Eng = new Course[data.size()];
-        for (int i = 0; i < data.size(); i++) {
+        for (int i = 0; i < SP21Eng.length; i++) {
             //System.out.println(Arrays.toString(data.get(i)));
             String department = data.get(i)[0].split(" ")[1];
-            String number = data.get(i)[0].split(" ")[2].substring(0, data.get(i)[0].split(" ")[2].length() - 1);
-            String description = data.get(i)[3].substring(1, data.get(i)[3].length() - 1);
-            String title = data.get(i)[1].substring(1, data.get(i)[1].length() - 1);
+            String number = data.get(i)[0].split(" ")[2];
+            String description = data.get(i)[3];
+            String title = data.get(i)[1];
 //            String[] preReqStr = data.get(i)[5].substring(1, data.get(i)[5].length() - 1).split(",");
 //            String[] coReqStr = data.get(i)[6].substring(1, data.get(i)[6].length() - 1).split(",");
 //            Course[] preReq = new Course[preReqStr.length];
@@ -37,14 +37,53 @@ public class Main {
             //System.out.println(department + number + title +description );
         }
         //System.out.println(Arrays.toString(SP21Eng));
-        System.out.println(SP21Eng[0]);
+        //System.out.println(SP21Eng[0]);
+
+
+        for (int i = 0; i < SP21Eng.length; i++) {
+            //System.out.println(data.get(i)[5] + data.get(i)[6]);
+            if (!data.get(i)[5].equals("null")) {
+                //System.out.println("SSSS");
+                String[] preReqStr = data.get(i)[5].split(",");
+                ArrayList<Course> preReq = new ArrayList<Course>();
+                //System.out.println(Arrays.toString(preReqStr));
+                for (String s : preReqStr) {
+                    //System.out.println(s.split(" ")[0]);
+                    preReq.add(searchCourse(SP21Eng, s.split(" ")[0], s.split(" ")[1]));
+                }
+                //System.out.println(preReq);
+                SP21Eng[i].setPrerequisite(preReq);
+            }
+
+            if (!data.get(i)[6].equals("null")) {
+                String[] coReqStr = data.get(i)[6].split(",");
+                ArrayList<Course> coReq = new ArrayList<Course>();
+                for (String s : coReqStr) {
+                    System.out.println(s.split(" ")[0] + s.split(" ")[1]);
+                    coReq.add(searchCourse(SP21Eng, s.split(" ")[0], s.split(" ")[1]));
+                }
+                SP21Eng[i].setCorequisite(coReq);
+            }
+        }
+
+        //System.out.println(searchCourse(SP21Eng, "BME", "228"));
+        for (Course c :
+                SP21Eng) {
+            System.out.println(c.getDepartment() + c.getNumber());
+            System.out.println(c.getPrerequisite());
+        }
+        SP21Eng[1].getPrerequisite().get(1).setCompleted(true);
+        System.out.println();
+        System.out.println(SP21Eng[1].getPrerequisite().get(1).isCompleted());
     }
 
 
-    Course searchCourse(Course[] from, String dept, String num){
+    static Course searchCourse(Course[] from, String dept, String num){
         for (Course c : from) {
-            if (c.getDepartment().equals(dept) && c.getNumber().equals(num))
+            if (c.getDepartment().equals(dept) && c.getNumber().equals(num)) {
                 return c;
+                //System.out.println("FOUND");
+            }
         }
         return null;
     }

@@ -3,8 +3,8 @@ import java.util.ArrayList;
 public class Course {
     private final String department;
     private final String number;
-    private final ArrayList<Course> prerequisite;
-    private final ArrayList<Course> corequisite;
+    private ArrayList<Course> prerequisite;
+    private ArrayList<Course> corequisite;
     private boolean completed;
     private final String descrption;
     private final String title;
@@ -28,6 +28,8 @@ public class Course {
         this.prerequisite = null;
         this.corequisite = null;
     }
+
+
 
     public boolean selectable(){
         return coMet() && preMet();
@@ -94,16 +96,16 @@ public class Course {
         this.completed = completed;
     }
 
+    public void setPrerequisite(ArrayList<Course> prerequisite) {
+        this.prerequisite = prerequisite;
+    }
+
+    public void setCorequisite(ArrayList<Course> corequisite) {
+        this.corequisite = corequisite;
+    }
+
     @Override
     public String toString() {
-        return "Course{" +
-                "department='" + department + '\'' +
-                ", number='" + number + '\'' +
-                ", prerequisite=" + prerequisite +
-                ", corequisite=" + corequisite +
-                ", completed=" + completed +
-                ", descrption='" + descrption + '\'' +
-                ", title='" + title + '\'' +
-                '}';
+        return department + " " + number;
     }
 }
