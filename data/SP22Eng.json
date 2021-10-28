@@ -1,0 +1,1417 @@
+[
+    [
+      "E62 BME 220",
+      "Introduction to Biomedical Circuits",
+      "4.0 Units",
+      "Electricity is central to normal and abnormal biological function, spanning scales from the subcellular to whole systems. Scientists and engineers also use electrical engineering to design and implement interaction with biological tissue, from classical physiological experiments to cutting-edge brain-computer interfaces. This course will begin study of bioelectrical engineering, by introducing simple electrical elements, circuits, amplifiers, and instrumentation. Relevant biological examples and computer modeling will be used throughout. Prerequisite: BME 140",
+      "Annually / "
+    ],
+    [
+      "E62 BME 231",
+      "Foundations of Biomedical Computing",
+      "3.0 Units",
+      "This elective course provides a basis for solving problems in biomedical engineering through coding and computation. Coding structures applied to concepts in linear algebra, statistics, and probability are introduced as a foundation to more advanced biomedical data science applications in machine learning and artificial intelligence. The course is taught using Python; no prior knowledge of Python is expected or required. Students should be comfortable with high school level algebra and geometry. This course is required as prerequisite for BME440, Biomedical Data Science, and is a required course for the Biomedical Data Science minor.",
+      "Annually / "
+    ],
+    [
+      "E62 BME 240",
+      "Biomechanics",
+      "3.0 Units",
+      "Principles of static equilibrium and solid mechanics applied to the human anatomy and a variety of biological problems. Statics of rigid bodies with applications to the musculoskeletal system. Mechanics of deformable media (stress, strain; stretching, torsion, and bending) with introduction to nonlinear behavior, viscoelasticity, and growth in living tissue. Applications to cells, bone, muscle, arteries, the heart, and the cochlea.  Prerequisites: Phys 117A or 197",
+      "Annually / "
+    ],
+    [
+      "E62 BME 240L",
+      "Biomechanics Laboratory",
+      "1.0 Unit",
+      "This course will consist of hands-on laboratory experiments in topics relevant to bioengineering mechanics such as statics of rigid bodies, viscoelasticity, material properties of biological materials, and the Hill muscle model.  MATLAB, Simulink modeling, and CAD will be taught and utilized throughout the course. A focus of the course will be extending fundamental mechanical principles to biological applications through experimentation. The course is designed to enhance the material covered in BME 240. Additionally, students will have the opportunity to design their own experiments, explore topics of special interest, and present their findings.  Prerequisites: Concurrent or completed BME 240",
+      "Annually / "
+    ],
+    [
+      "E62 BME 301B",
+      "Quantitative Physiology II",
+      "4.0 Units",
+      "A course (lecture and supervised laboratory sessions) designed to elaborate the physiological background necessary for advanced work in biomedical engineering. A quantitative model-oriented approach to physiological systems is stressed. Topics include electrocardiography; heart contractility and molecular bases; cell signaling, pulse wave propagation in arteries; renal function; imaging, and systems biology. Prerequisites: BME 140, CSE 131, ESE 230, Biol 3058 (Previously Biol 3050 or 3059), ESE 319, or permission of instructor. Recitation sessions will be held on Tuesdays 2:30-4:00.",
+      "Annually / "
+    ],
+    [
+      "E62 BME 329",
+      "Biothermodynamics in Practice",
+      "3.0 Units",
+      "This course will include hands-on, laboratory experiments in topics relevant to bioengineering thermodynamics, such as heat transfer, relationships involving temperature and pressure, equilibria, mixing, and solution chemistry.  A focus of the course will be extending fundamental scientific principles to biological applications. Students will have the opportunity to design their own experiments, explore topics of special interest, and present their findings.  Prerequisites:  Chem 111A and 151; Phys 117A, 118A or 197, 198.",
+      "None / "
+    ],
+    [
+      "E62 BME 366",
+      "Transport Phenomena in Biomedical Engineering",
+      "3.0 Units",
+      "Many processes of importance in biology and medicine involve the transfer of mass, heat or momentum.  Through the use of the differential control volume approach, the fundamental transport equations will be derived.  Systematic derivation of differential equations appropriate for different types of transport problems will be explored.  Solutions of the resulting differential equations for simple chemical/biological systems will then be sought.  Macroscopic descriptions of fluid flow will be applied to the design of blood pumps for the heart.  Unsteady mass transfer with diffusion, advection and chemical reactions will also be applied to the transport of proteins, metabolites and therapeutics throughout the body.  Prerequisites: BME 240, Math 217,  ESE 318 and ESE 319, BME 320B.",
+      "None / "
+    ],
+    [
+      "E62 BME 401B",
+      "Senior Capstone Design B",
+      "2.0 Units",
+      "A hands-on design experience to provide students practical application of engineering.  Working in small teams, students will work towards building a prototype of the student design which was a product of 401A. The students will be expected to design a verification and validation plan to test the prototype built. The design experience will require application of knowledge and skills acquired in earlier coursework and lab experiences; it will incorporate engineering standards and realistic constraints that include most of the following considerations: economic, environmental, sustainability, manufacturability, ethical, health and safety, FDA, social, and political. Students will prepare written reports and present their designs orally to a panel of faculty members and industrial representatives. The final product of BME 401B will be a prototype, and a descriptive paper describing their solution documenting how the prototype satisfies the design specifications, with the validation and verification results.  Prerequisites: BME 401A",
+      "Annually / "
+    ],
+    [
+      "E62 BME 440",
+      "Biomedical Data Science",
+      "3.0 Units",
+      "Data analysis, statistical methods, AI, machine learning, predictive modeling, and data visualization, with applications to medicine and health.  As part of the course, BME faculty will present biomedical data science topics from their research areas.  Students will learn to prepare, transform, visualize, validate, model, and communicate information about data sets, and will design and implement an independent project to address a biomedical data science problem. No prior Python experience necessary. Prerequisites: CSE 131, ESE 318, ESE 326, or equivalent courses.",
+      "None / "
+    ],
+    [
+      "E62 BME 442",
+      "Biomacromolecules Design and Engineering",
+      "3.0 Units",
+      "Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids), are important components of the cell and its supporting matrix that perform a wide array of functions. This course will introduce the principles and recent advances in nucleic acid/gene engineering, protein/peptide engineering, and chemical/enzymatic conjugation technologies and will also discuss the application of engineered biomacromolecules in clinical therapeutics/diagnostics, biosensing, bioimaging, and biocatalysis. Students will learn material through lecture, reading, homework, scientific publications, and molecular visualization tools. Students will work individually or in pairs/groups to develop and lead discussions on engineering biomacromolecules and molecular characterization techniques.  All students will be placed on a waitlist.  Registration will be split between undergraduate and graduate students.",
+      "Annually / "
+    ],
+    [
+      "E62 BME 443",
+      "Molecular and Cellular Engineering",
+      "3.0 Units",
+      "The ability to engineer biological function at the cellular level holds tremendous potential for both basic and applied science.  This course aims to provide knowledge and practical proficiency in the methods available for measuring and controlling the molecular organization of eukaryotic cells.  Topics to be covered include genome engineering using viral- and CRISPR-Cas systems; spatial and temporal control of proteins and their interactions; methods for characterizing and engineering post-translational modifications; and the relationship between cellular organization and function in migration, immune cell target recognition, and differentiation.  Examples from recent scientific literature will provide the foundation for these topics. All students will be placed on a waitlist.  Registration will be split between undergraduate and graduate students.",
+      "Annually / "
+    ],
+    [
+      "E62 BME 444",
+      "Biomedical Instrumentation",
+      "3.0 Units",
+      "Operational and instrumentation amplifiers for bioelectric event signal conditioning, interfacing and processing; Instrumentation noise analysis and filter design; A/D converters and hardware and software principles as related to sampling, storing, processing, and display of biosignals; Modeling, analysis, and operation of transducers, sensors, and electrodes, for physiological and imaging systems; Introduction to ultrasound, x-ray, and optical imaging systems. Additionally, students will be involved in three projects of designing and building instrumentation amplifier and filter systems, ultrasound and optical systems. Prereqs.:BME 301A and 301B.",
+      "Annually / "
+    ],
+    [
+      "E62 BME 4642",
+      "Human-Machine Interfaces",
+      "3.0 Units",
+      "This course will provide an overview of neurorehabilitation technologies for individuals with neuromotor disorders. Topics will include the neurophysiology of human motor and sensory systems, motor control and adaptation, and neuroplasticity in the damaged brain and spinal cord. Human-machine interface systems including prostheses, orthoses and exoskeletons, wheelchairs, neuroprosthetics, brain-machine interfaces, and wearable robots will be discussed with an emphasis on their clinical applications for restoration of motor and sensory functions. Lecture material and assignments will draw from current scientific literature and research. All students will be placed on a waitlist. Registration will be split between undergraduate and graduate students.  Prerequisite: BME 301 Quantitative Physiology I or equivalent introductory physiology course preferred.",
+      "None / "
+    ],
+    [
+      "E62 BME 472",
+      "Biological Neural Computation",
+      "3.0 Units",
+      "This course will consider the computations performed by the biological nervous system with a particular focus on neural circuits and population-level encoding/decoding. Topics include, Hodgkin-Huxley equations, phase-plane analysis, reduction of Hodgkin-Huxley equations, models of neural circuits, plasticity and learning, and pattern recognition & machine learning algorithms for analyzing neural data. \n \nNote: Graduate students in psychology or neuroscience who are in the Cognitive, Computational, and Systems Neuroscience curriculum pathway may register in L41 5657 for three credits.  For non-BME majors, conceptual understanding, and selection/application of right neural data analysis technique will be stressed. Hence homework assignments/examinations for the two sections will be different, however all students are required to participate in a semester long independent project as part of the course. Calculus, Differential Equations, Basic Probability and Linear Algebra\nUndergraduates need permission of the instructor.\nL41 5657 prerequisites: Permission from the instructor",
+      "Annually / "
+    ],
+    [
+      "E62 BME 501",
+      "Graduate Seminar",
+      "0.0 Unit",
+      "This is a pass/fail course which is required for the M.S. or Ph.D. degrees. A passing grade is required for each semester of full-time enrollment (9 units or more). A passing grade is received by attendance at the regularly scheduled BME seminars.",
+      "Every Semester / "
+    ],
+    [
+      "E62 BME 501C",
+      "BME Doctoral Seminar Series",
+      "1.0 Unit",
+      "This is a one unit credit option for BME students who attend regularly scheduled BME seminars (or approved substitute seminars).  A satisfactory grade is obtained by submission of a two page peer reviewed paper written by one of the regularly scheduled BME seminar speakers whose seminar you attended.  Papers are to be submitted to the Graduate Student Administrator for review by the Director of Doctoral Studies.  Prerequisites:  Students must be current BME students in their 2nd year and beyond in order to register",
+      "Every Semester / "
+    ],
+    [
+      "E62 BME 533",
+      "Biomedical Signal Processing",
+      "3.0 Units",
+      "Course designed for graduate students with little or no background in signal processing. Continuous-time and discrete-time application of signal processing tools to a variety of biomedical problems. Course topics include review of linear signals and systems theory, frequency transforms, sampling theorem, basis functions, linear filtering, feature extraction, parameter estimation and biological system modeling. Special emphasis will be placed on signal transduction and data acquisition. Additional topics include noise analysis of real-world biosignals, biological system identification, stochastic/chaotic/ fractal/nonlinear processes in biological systems. Concepts learned in class will be applied using software tools to 1D biomedical signals such as biological rhythms, chemical concentrations, blood pressure, speech, EMG, ECG, EEG. Prerequisites: graduate standing or consent of instructor.",
+      "Annually / "
+    ],
+    [
+      "E62 BME 542",
+      "Biomacromolecules Design and Engineering",
+      "3.0 Units",
+      "Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids), are important components of the cell and its supporting matrix that perform a wide array of functions. This course will introduce the principles and recent advances in nucleic acid/gene engineering, protein/peptide engineering, and chemical/enzymatic conjugation technologies and will also discuss the application of engineered biomacromolecules in clinical therapeutics/diagnostics, biosensing, bioimaging, and biocatalysis. Students will learn material through lecture, reading, homework, scientific publications, and molecular visualization tools. Students will work individually or in pairs/groups to develop and lead discussions on engineering biomacromolecules and molecular characterization techniques.  All students will be placed on a waitlist.  Registration will be split between undergraduate and graduate students.",
+      "Annually / "
+    ],
+    [
+      "E62 BME 543",
+      "Molecular and Cellular Engineering",
+      "3.0 Units",
+      "The ability to engineer biological function at the cellular level holds tremendous potential for both basic and applied science.  This course aims to provide knowledge and practical proficiency in the methods available for measuring and controlling the molecular organization of eukaryotic cells.  Topics to be covered include genome engineering using viral- and CRISPR-Cas systems; spatial and temporal control of proteins and their interactions; methods for characterizing and engineering post-translational modifications; and the relationship between cellular organization and function in migration, immune cell target recognition, and differentiation.  Examples from recent scientific literature will provide the foundation for these topics. All students will be placed on a waitlist.  Registration will be split between undergraduate and graduate students.",
+      "Annually / "
+    ],
+    [
+      "E62 BME 544",
+      "Biomedical Instrumentation",
+      "3.0 Units",
+      "Operational and instrumentation amplifiers for bioelectric event signal conditioning, interfacing and processing; Instrumentation noise analysis and filter design; A/D converters and hardware and software principles as related to sampling, storing, processing, and display of biosignals; Modeling, analysis, and operation of transducers, sensors, and electrodes, for physiological and imaging systems; Introduction to ultrasound, x-ray, and optical imaging systems. Additionally, students will be involved in three projects of designing and building instrumentation amplifier and filter systems, ultrasound and optical systems. Prereqs.:BME 301A and 301B.",
+      "Annually / "
+    ],
+    [
+      "E62 BME 5501",
+      "Translational Neuroengineering",
+      "3.0 Units",
+      "This course focuses on the design of bioelectric devices for use in clinical patients.  Neural stimulators (e.g. deep brain, vagal) will be the basis for a case-study approach to designing and developing new bioelectrical medical devices.  This project-based course will introduce the student to the use of finite element solvers to design novel stimulators.  In addition to the engineering design aspects, issues such as product liability, FDA approval, etc. will be discussed.",
+      "Spring / Summer / "
+    ],
+    [
+      "E62 BME 5642",
+      "Human-machine interfaces",
+      "3.0 Units",
+      "This course will provide an overview of neurorehabilitation technologies for individuals with neuromotor disorders. Topics will include the neurophysiology of human motor and sensory systems, motor control and adaptation, and neuroplasticity in the damaged brain and spinal cord. Human-machine interface systems including prostheses, orthoses and exoskeletons, wheelchairs, neuroprosthetics, brain-machine interfaces, and wearable robots will be discussed with an emphasis on their clinical applications for restoration of motor and sensory functions. Lecture material and assignments will draw from current scientific literature and research. All students will be placed on a waitlist. Registration will be split between undergraduate and graduate students.  Prerequisite: BME 301 Quantitative Physiology I or equivalent introductory physiology course preferred.",
+      "None / "
+    ],
+    [
+      "E62 BME 572",
+      "Biological Neural Computation",
+      "3.0 Units",
+      "This course will consider the computations performed by the biological nervous system with a particular focus on neural circuits and population-level encoding/decoding. Topics include, Hodgkin-Huxley equations, phase-plane analysis, reduction of Hodgkin-Huxley equations, models of neural circuits, plasticity and learning, and pattern recognition & machine learning algorithms for analyzing neural data. \n \nNote: Graduate students in psychology or neuroscience who are in the Cognitive, Computational, and Systems Neuroscience curriculum pathway may register in L41 5657 for three credits.  For non-BME majors, conceptual understanding, and selection/application of right neural data analysis technique will be stressed. Hence homework assignments/examinations for the two sections will be different, however all students are required to participate in a semester long independent project as part of the course. Calculus, Differential Equations, Basic Probability and Linear Algebra\nUndergraduates need permission of the instructor.\nL41 5657 prerequisites: Permission from the instructor",
+      "Annually / "
+    ],
+    [
+      "E62 BME 5771",
+      "Biomedical Product Development",
+      "3.0 Units",
+      "Advances in science and technology have opened the healthcare field to innovation now more than any other time in history.  Engineers and inventors can make real and rapid improvements to patient treatments, length of hospital stay, procedure time, cost containment, and accessibility to treatment.  However, a successful transition from idea to implementation requires careful market analysis and strategy planning.  This course will address the steps in this process, including personal and team strength assessement, medical need validation, brainstorming initial solutions, market analysis, solution evaluation, regulatory, patent, and intellectual property concerns, manufacturability, risk assessment and mitigation, and global considerations.\n \nStudents will be expected to review resource material prior to coming to class in order to facilitate active class discussion and team-based application of the material during class; regular attendance will be key to course success. The course will focus on applying product development techniques to several real unmet medical needs; students will thus perform analysis and create reports and presentations for several different product solutions. Peer and faculty evaluations will provide feedback to improve individual technique.  In addition, throughout the semester, local biomedical entrepreneurs will visit to share their expertise and experiences. Prerequisites: Graduate or professional student standing or permission of the instructor.\n",
+      "None / "
+    ],
+    [
+      "E62 BME 5820",
+      "Fundamentals and Applications of Modern Optical Imaging",
+      "3.0 Units",
+      "Analysis, design, and application of modern optical imaging systems with emphasis on biological imaging.  First part of course will focus on the physical principles underlying the operation of imaging systems and their mathematical models.  Topics include ray optics (speed of light, refractive index, laws of reflection and refraction, plane surfaces, mirrors, lenses, aberrations), wave optics (amplitude and intensity, frequency and wavelength, superposition and interference, interferometry), Fourier optics (space-invariant linear systems, Huygens-Fresnel principle, angular spectrum, Fresnel diffraction, Fraunhofer diffraction, frequency analysis of imaging systems), and light-matter interaction (absorption, scattering, dispersion, fluorescence).  Second part of course will compare modern quantitative imaging technologies including, but not limited to, digital holography, computational imaging, and super-resolution microscopy.  Students will evaluate and critique recent optical imaging literature.Pre-requisites: ESE 318 and ESE 319 or their equivalents; ESE 330 or PHY 421 or equivalent.\n",
+      "None / "
+    ],
+    [
+      "E62 BME 589",
+      "Biological Imaging Technology",
+      "3.0 Units",
+      "This class will develop a fundamental understanding of the physics and mathematical methods that underlie biological imaging and critically examine case studies of seminal biological imaging technology literature. The physics section will examine how electromagnetic and acoustic waves interact with tissues and cells, how waves can be used to image the biological structure and function, image formation methods and diffraction limited imaging. The math section will examine image decomposition using basis functions (e.g. fourier transforms), synthesis of measurement data, image analysis for feature extraction, reduction of multi-dimensional imaging datasets, multivariate regression, and statistical image analysis. Original literature on electron, confocal and two photon microscopy, ultrasound, computed tomography, functional and structural magnetic resonance imaging and other emerging imaging technology will be critiqued.",
+      "None / "
+    ],
+    [
+      "E62 BME 5911",
+      "Cardiovascular Biophysics Journal Club",
+      "1.0 Unit",
+      "This journal club is intended for beginning graduate students, advanced undergraduates, and MSTP students with a background in the quantitative sciences (engineering, physics, math, chemistry, etc). The subjects covered are inherently multidisciplinary. We will review landmark and recent publications in quantitative cardiovascular physiology, mathematical modeling of physiologic systems and related topics such as chaos theory and nonlinear dynamics of biological systems. Familiarity with calculus, differential equations, and basic engineering/thermodynamic principles is assumed. Knowledge of anatomy/physiology is optional.",
+      "Every Semester / "
+    ],
+    [
+      "E62 BME 599",
+      "Masters Research",
+      "Var. Units (max = 6.0)",
+      "All sects. TBA.",
+      "None / "
+    ],
+    [
+      "E81 CSE 131",
+      "Introduction to Computer Science",
+      "3.0 Units",
+      "An introduction to software concepts and implementation, emphasizing problem solving through abstraction and decomposition. Introduces processes and algorithms, procedural abstraction, data abstraction, encapsulation, and object-oriented programming. Recursion, iteration, and simple data structures are covered. Concepts and skills are mastered through programming projects, many of which employ graphics to enhance conceptual understanding. Java, an object-oriented programming language, is the vehicle of exploration. Active-learning sessions are conducted in a studio setting in which students interact with each other and the professor to solve problems collaboratively. Prerequisites: Comfort with algebra and geometry at the high school level is assumed. Patience, good planning, and organization will promote success. Required in-person evening exams will be given 2/14 6:30-8:30p, 3/21 6:30-8:30p, and 4/14 6:30-8:30p.",
+      "Every Semester / "
+    ],
+    [
+      "E81 CSE 132",
+      "Introduction to Computer Engineering",
+      "3.0 Units",
+      "CSE 132 introduces students to fundamental concepts in the basic operation of computers, ranging from desktops and servers to microcontrollers and handheld devices. Subjects include digital and analog input/output, sensing the physical world, information representation, basic computer architecture and machine language, time-critical computation, machine-to-machine communication and protocol design.  Students will use both desktop systems and handheld microcontrollers for laboratory experiments.  Active-learning sessions are conducted in a studio setting in which students interact with each other and the professor to solve problems collaboratively. Evening exams will be held on 2/23 and 4/6 from 6:30-8:30 p.m. Prerequisite CSE 131",
+      "None / "
+    ],
+    [
+      "E81 CSE 204A",
+      "Web Development",
+      "3.0 Units",
+      "This course explores elementary principles for designing, creating and publishing effective websites and web application front-ends. Topics include page layout concepts, color theory, design principles, search engine optimization, HTML, CSS, Javascript, modern front-end frameworks, and other development tools. Students apply the topics by creating a series of websites, which are judged based on their design and implementation. Prerequisite: CSE131 or equivalent experience",
+      "None / "
+    ],
+    [
+      "E81 CSE 231S",
+      "Introduction to Parallel and Concurrent Programming",
+      "3.0 Units",
+      "This course explores concepts, techniques, and design approaches for parallel and concurrent programming. We study how to write programs that make use of multiple processors for responsiveness and that share resources reliably and fairly. Parallel programming concepts include task-level, functional, and loop-level parallelism. Concurrent programming concepts include threads, synchronization, and locks. We cover how to adapt algorithms to achieve determinism and avoid data races and deadlock. Concepts and skills are acquired through the design and implementation of software projects. Prerequisite: CSE 131.",
+      "None / "
+    ],
+    [
+      "E81 CSE 237S",
+      "Programming Tools and Techniques",
+      "3.0 Units",
+      "This course offers an introduction to the tools and techniques that allow programmers to write code effectively. Tools covered include: version control, the command line, debuggers, compilers, unit testing, IDEs, bug trackers, and more. The course also places a heavy emphasis on code quality: how can we write code that is not only functional but also meets quality standards? Peer review exercises will be used to show the importance of code craftsmanship. Prerequisite: CSE 131",
+      "None / "
+    ],
+    [
+      "E81 CSE 240",
+      "Logic and Discrete Mathematics",
+      "3.0 Units",
+      "Introduces elements of logic and discrete mathematics that allow reasoning about computational structures and processes. Generally, the areas of discrete structures, proof techniques, probability and computational models are covered. Topics typically include propositional and predicate logic; sets, relations, functions and graphs; proof by contradiction, induction and reduction; finite state machines and regular languages; and introduction to discrete probability, expected value and variance. Evening exams will be held on 2/21, 3/28, and 4/28 from 6:30-8:30 p.m. Prerequisite: CSE 131",
+      "None / "
+    ],
+    [
+      "E81 CSE 247",
+      "Data Structures and Algorithms",
+      "3.0 Units",
+      "Study of fundamental algorithms, data structures, and their effective use in a variety of applications. Emphasizes importance of data structure choice and implementation for obtaining the most efficient algorithm for solving a given problem. A key component of this course is worst-case asymptotic analysis, which provides a quick and simple method for determining the scalability and effectiveness of an algorithm. Online textbook purchase required. Prerequisite: CSE 131 and fluency with summations, derivatives, and proofs by induction. Two evening exams at which attendance is required will be held on Wednesday, February 23 from 6:30-8:30 pm and Wednesday, April 6 from 6:30-8:30 pm, and Wednesday, May 4th 10 am-12 pm.",
+      "None / "
+    ],
+    [
+      "E81 CSE 247R",
+      "Seminar: Data Structures and Algorithms",
+      "1.0 Unit",
+      "In this course we explore problems that arise in coding interviews, with the goal of reinforcing and augmenting the intellectual material of CSE 247 - Data Structures and Algorithms. This course serves as a supplement to CSE 247 and aims to prepare students for software engineering interviews by training them in the application of data structures and algorithm fundamentals and improving overall programming skills. Based on the best-selling book Cracking the Coding Interview, students will work in teams and on their own to solve coding problems, and throughout the course of the semester students will be expected to complete mock interviews. Clarity and efficiency of solutions are emphasized, and students present their solutions in small groups and to the entire class.",
+      "Every Semester / "
+    ],
+    [
+      "E81 CSE 260M",
+      "Introduction to Digital Logic and Computer Design",
+      "3.0 Units",
+      "Introduction to design methods for digital logic and fundamentals of computer architecture. Boolean algebra and logic minimization techniques; sources of delay in combinational circuits and effect on circuit performance; survey of common combinational circuit components; sequential circuit design and analysis; timing analysis of sequential circuits; use of computer-aided design tools for digital logic design (schematic capture, hardware description languages, simulation); design of simple processors and memory subsystems; program execution in simple processors; basic techniques for enhancing processor performance; configurable logic devices. Prerequisites: CSE 131",
+      "None / "
+    ],
+    [
+      "E81 CSE 314A",
+      "Data Manipulation and Management",
+      "3.0 Units",
+      "As the base of data science, data needs to be acquired, integrated and preprocessed. This important step in the data science workflow ensures both quantity and quality of data and improves the effectiveness of the following steps of data processing. Students will gain an understanding of concepts and approaches of data acquisition and governance including data shaping, information extraction, information integration, data reduction and compression, data transformation as well as data cleaning. The course will further highlight the ethical responsibility of protecting the integrity of data and proper use of data. Corequisites: CSE 131 and CSE 247; Prerequisite: CSE 217A",
+      "None / "
+    ],
+    [
+      "E81 CSE 330S",
+      "Rapid Prototype Development and Creative Programming",
+      "3.0 Units",
+      "This course uses web development as a vehicle for developing skills in rapid prototyping. Students acquire the skills to build a Linux web server in Apache, to write a web site from scratch in PHP, to run an SQL database, to perform scripting in Python, and to develop modern web applications in client-side and server-side JavaScript. The course culminates with a creative project in which students are able to synthesize the course material into a project of their own interest. The course implements an interactive studio format: after a formal presentation of a topic, students develop a related project under the supervision of the instructor. 330S and 503S share the same lecture. Students who opt for the 503S version will be expected to complete more work, commensurate with the graduate-level course number. Prerequisite: CSE 131",
+      "None / "
+    ],
+    [
+      "E81 CSE 332S",
+      "Object-Oriented Software Development Laboratory",
+      "3.0 Units",
+      "Intensive focus on practical aspects of designing, implementing and debugging software, using object-oriented, procedural, and generic programming techniques. The course emphasizes familiarity and proficiency with a wide range of C++ language features through hands-on practice completing studio exercises and lab assignments, supplemented with readings and summary presentations for each session. An evening midterm exam at which attendance is required will be on Thursday, April 2nd from 6:30-8:30 p.m.  Prerequisites: CSE 247.",
+      "None / "
+    ],
+    [
+      "E81 CSE 347",
+      "Analysis of Algorithms",
+      "3.0 Units",
+      "Introduces techniques for the mathematical analysis of algorithms, including randomized algorithms and non-worst-case analyses such as amortized and competitive analysis. Introduces the standard paradigms of divide-and-conquer, greedy, and dynamic programming algorithms, as well as reductions. Also provides an introduction to the study of intractability and techniques to determine when good algorithms cannot be designed. Students should register for one of the lettered discussion subsections as well. Prerequisite: CSE 247\n",
+      "None / "
+    ],
+    [
+      "E81 CSE 361S",
+      "Introduction to Systems Software",
+      "3.0 Units",
+      "Introduction to the hardware and software foundations of computer processing systems.  This course provides a programmer's perspective of how computer systems execute programs and store information. The course material aims to enables students to become more effective programmers, especially in dealing with issues of performance, portability and robustness. It also serves as a foundation for other system courses, such as compilers, networks, and operating systems, where a deeper understanding of systems-level issues is required. Topics covered include: machine-level code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, memory organization and management, and supporting concurrent computation.Prerequisite: CSE 132",
+      "None / "
+    ],
+    [
+      "E81 CSE 412A",
+      "Introduction to Artificial Intelligence",
+      "3.0 Units",
+      "The discipline of artificial intelligence (AI) is concerned with building systems that think and act like humans or rationally on some absolute scale. This course is an introduction to the field, with special emphasis on sound modern methods. The topics include knowledge representation, problem solving via search, game playing, logical and probabilistic reasoning, planning, dynamic programming, and reinforcement learning. Programming exercises concretize the key methods. The course targets graduate students and advanced undergraduates.Evaluation is based on written and programming assignments and two exams. Prerequisites: CSE 247, ESE 326, and Math 233. Waitlist will be managed by department.",
+      "None / "
+    ],
+    [
+      "E81 CSE 416A",
+      "Analysis of Network Data",
+      "3.0 Units",
+      "This course examines complex systems through the eyes of a computer scientist. We will use the representative power of graphs to model networks of social, technological, or biological interactions. Network analysis provides many computational, algorithmic, and modeling challenges. We begin by studying graph theory, allowing us to quantify the structure and interactions of social and other networks. We will then explore how to practically analyze network data and how to reason about it through mathematical models of network structure and evolution. We will also investigate algorithms that extract basic properties of networks in order to find communities and infer node properties. Finally, we will study a range of applications including robustness and fragility of networks such as the internet, spreading processes used to study epidemiology or viral marketing, and the ranking of webpages based on the structure of the webgraph. This course combines concepts from computer science and applied mathematics to study networked systems using data mining. Prerequisites: CSE 247, ESE 326, MATH 309, and programming experience (note: we will parse data and analyze networks using Python)",
+      "None / "
+    ],
+    [
+      "E81 CSE 417T",
+      "Introduction to Machine Learning",
+      "3.0 Units",
+      "The field of machine learning is concerned with the question of how to construct computer programs that automatically improve with experience. This course is a broad introduction to machine learning, covering the foundations of supervised learning and important supervised learning algorithms. Topics to be covered are the theory of generalization (including VC-dimension, the bias-variance tradeoff, validation, and regularization) and linear and non-linear learning models (including linear and logistic regression, decision trees, ensemble methods, neural networks, nearest-neighbor methods, and support vector machines). Prerequisites: CSE 247, ESE 326 (or Math 3200), Math 233, and Math 309 (can be taken concurrently).",
+      "None / "
+    ],
+    [
+      "E81 CSE 422S",
+      "Operating Systems Organization",
+      "3.0 Units",
+      "This course involves a hands-on exploration of core OS abstractions, mechanisms and policies in the context of the Linux kernel.  Readings, lecture material, studio exercises, and lab assignments are closely integrated in an active-learning environment in which students gain experience and proficiency writing OS code, as well as tracing and evaluating OS operations via user-level programs and kernel-level monitoring tools. Topics include: system calls, interrupt handling, kernel modules, concurrency and synchronization, proportional and priority-based scheduling of processes and threads, I/O facilities, memory management, virtual memory, device management, and file system organization. Prerequisite: CSE 361S",
+      "None / "
+    ],
+    [
+      "E81 CSE 425S",
+      "Programming Systems and Languages",
+      "3.0 Units",
+      "A systematic study of the principles, concepts and mechanisms of computer programming languages: their syntax, semantics and pragmatics; the processing and interpretation of computer programs; programming paradigms; and language design. Illustrative examples are selected from a variety of programming language paradigms. Prerequisites: CSE 332S",
+      "None / "
+    ],
+    [
+      "E81 CSE 427S",
+      "Cloud Computing with Big Data Applications",
+      "3.0 Units",
+      "This course provides an overview of the tools necessary to harness big data on the cloud for real world analytic applications. Each lecture will cover an important cloud computing concept or framework, and will be accompanied by a lab. There will be an emphasis on hands-on experience through using each of the tools taught in this course in a small project. Topics include Cloud based security and storage, Linux, Docker and Kubernetes, Data modeling through JSON and SQL, Database concepts and storage architectures, distributed systems, and finally real-world applications. Labs will build on each other and require the completion of the previous week's lab. The course will end with a multi-week, open-ended final project. Prerequisites: CSE 131,CSE 247, and CSE 330.",
+      "None / "
+    ],
+    [
+      "E81 CSE 433R",
+      "Seminar: Capture The Flag (CTF) Studio",
+      "1.0 Unit",
+      "This course provides a collaborative studio space for hands-on practice solving security-relevant puzzles in \"Capture The Flag\" (CTF) format. Students will engage CTF challenges individually and in teams, and online CTF resources requiring (free) account signup may be used. Students will be encouraged to attempt challenges commensurate with their ability, but no prior CTF experience is assumed. The goal of the course is to build skills in the fundamentals of security analysis, including: usage of the Linux command line and console-based security tools, creativity in applying theoretical knowledge to practical challenges, and confidence in approaching under-specified problems. Prerequisite/corequisite: CSE 433s or CSE523s or equivalent.",
+      "None / "
+    ],
+    [
+      "E81 CSE 435S",
+      "Database Management Systems",
+      "3.0 Units",
+      "A study of data models and the database management systems that support these data models. The design theory for databases is developed and various tools are utilized to apply the theory. General query languages are studied and techniques for query optimization are investigated. Integrity and security requirements are studied in the context of concurrent operations on a database, where the database may be distributed over one or more locations. The unique requirements for engineering design databases, image databases, and long transaction systems are analyzed. Prerequisite: CSE 247.",
+      "None / "
+    ],
+    [
+      "E81 CSE 437S",
+      "Software Engineering Workshop",
+      "3.0 Units",
+      "An introduction and exploration of concepts and issues related to large-scale software systems development.  Areas of exploration include technical complexities, organization issues, and communication techniques for large-scale development.  Students participate through teams emulating industrial development. The projects cover the principal system development life-cycle phases from requirements analysis, to software design, and to final implementation.  Issues relating to real-time control systems, human factors, reliability, performance, operating costs, maintainability and others are addressed and resolved in a reasonable manner.  Prerequisite: Junior or Senior standing, and CSE 330S.",
+      "Unpredictable / "
+    ],
+    [
+      "E81 CSE 439S",
+      "Mobile Application Development II",
+      "3.0 Units",
+      "In this course, students will work in groups to design, develop, test, publish, and market an iOS mobile application. Throughout the semester students will operate in different roles on a team, serving as lead developer, tester, and project manager.  Topics include; how to publish a mobile application on an app store, APIs and tools for testing and debugging, and popular cloud-based SDKs used by developers.  This course requires completion of the iOS version of CSE 438, Mobile Application Development or the appropriate background knowledge of the iOS platform.",
+      "None / "
+    ],
+    [
+      "E81 CSE 450A",
+      "Video Game Programming",
+      "3.0 Units",
+      "This course teaches the core aspects of a video game developer's toolkit. Students work in groups and with a large game software engine to create and playtest a full-featured video game. Students will explore topics around the design of games through analysis of current games. Students have the opportunity to explore additional topics including graphics, artificial intelligence, networking, physics, and user interface design through their game project. Prerequisite: CSE 3xxS or 4xxS.",
+      "None / "
+    ],
+    [
+      "E81 CSE 451A",
+      "Video Game Programming II",
+      "3.0 Units",
+      "This class is a continuation of Video Game Programming I, CSE450A.  Students will work in groups, and with a large game software engine to make a full featured video game.  Students will have the opportunity to work on topics in graphics, artificial intelligence, networking, physics, user interface design, and other topics.  Prerequisites:  CSE 450A and permission of instructors.",
+      "None / "
+    ],
+    [
+      "E81 CSE 462M",
+      "Computer Systems Design",
+      "3.0 Units",
+      "Introduction to modern design practices, including FPGA and PCB design methodologies. Student teams use Xilinx Vivado for HDL-based FPGA design and simulation and do schematic capture, PCB layout, fabrication, and testing of the hardware portion of a selected computation system. The software portion of the project uses Microsoft Visual Studio to develop a user interface and any additional support software required to demonstrate final projects to the faculty during finals week. Prerequisites: ESE 232, CSE 361S, and 362M from Washington University in St. Louis (or permission of instructor).\n\nLab Fee: $200\nThere will be no text: We will supply each student with some electronics\nfor their semester project instead.\n",
+      "$200.00 ",
+      "None / "
+    ],
+    [
+      "E81 CSE 463M",
+      "Digital Integrated Circuit Design and Architecture",
+      "3.0 Units",
+      "This is a project-oriented course on digital VLSI design. The course material focuses on bottom-up design of digital integrated circuits, starting from CMOS transistors, CMOS inverters, combinational circuits and sequential logic designs. Important design aspect of digital integrated circuits such as propagation delay, noise margins and power dissipation are covered in the class, as well as design challenges in sub-micron technology are addressed. The students design combinational and sequential circuits at various levels of abstraction using state-of-the-art CAD environment provided by Cadence Design Systems. The goal of the class is to design a complete IC chip in 0.5 micron technology that will be fabricated by a semiconductor foundry. Prerequisites: CSE 260M and ESE 232.\n\n",
+      "None / "
+    ],
+    [
+      "E81 CSE 468T",
+      "Introduction to Quantum Computing",
+      "3.0 Units",
+      "This course introduces students to quantum computing, which leverages the effects of quantum-mechanical phenomena to solve problems.  The course begins with material from physics that demonstrates the presence of quantum effects.  Mathematical abstractions of quantum gates are studied with the goal of developing the skill to reason about existing quantum circuits and to develop new quantum circuits as required to solve problems.  Students will develop a quantum-computer simulator and make use of open simulators as well as actual  devices that can realize quantum circuits on the Internet.  Prerequisites: CSE247, Math 309 and either Math 3200 or ESE 326.",
+      "None / "
+    ],
+    [
+      "E81 CSE 473S",
+      "Introduction to Computer Networks",
+      "3.0 Units",
+      "A broad overview of computer networking. Topics include history, protocols, Hyper Text Transfer Protocol (HTTP), File Transfer Protocol (FTP), Simple Mail  Transfer Protocol (SMTP), Domain Name System (DNS), peer-to-peer (P2P), transport layer design issues, transport layer protocols, Transmission Control Protocol (TCP), User Datagram Protocol (UDP), TCP congestion control, network layer, Internet Protocol version 4 (IPv4), Internet Control Message Protocol (ICMP), Internet Protocol version 6 (IPv6), routing algorithms, routing protocols, Open Shortest Path First (OSPF), Routing Information Protocol (RIP), Border Gateway Protocol (BGP), datalink layer and local area networks carrier sense multiple access with collision detection (CSMA/CD), Ethernet, virtual local area networks (VLANs), Point-to-Point Protocol (PPP), Multi-Protocol Label Switching, wireless and mobile networks, multimedia networking, security in computer networks, cryptography, and network management. Prerequisite: CSE 247; CSE 132 is suggested, but not required.",
+      "None / "
+    ],
+    [
+      "E81 CSE 499",
+      "Undergraduate Honors Thesis",
+      "3.0 Units",
+      "Working closely with a faculty member, the student investigates an original idea (algorithm, model technique, etc.), including a study of its possible implications, its potential application, and its relationship to previous related work reported in the literature. Contributions and results from this investigation are synthesized and compiled into a publication-quality research paper presenting the new idea. Prerequisites: a strong academic record and permission of instructor.",
+      "None / "
+    ],
+    [
+      "E81 CSE 501N",
+      "Introduction to Computer Science",
+      "3.0 Units",
+      "An introduction to software concepts and implementation, emphasizing problem solving through abstraction and decomposition. Introduces processes and algorithms, procedural abstraction, data abstraction, encapsulation, and object-oriented programming. Recursion, iteration, and simple data structures are covered. Concepts and skills are mastered through programming projects, many of which employ graphics to enhance conceptual understanding. Java, an object-oriented programming language, is the vehicle of exploration. Active-learning sessions are conducted in a studio setting in which students interact with each other and the professor to solve problems collaboratively. Prerequisites: Comfort with algebra and geometry at the high school level is assumed. Patience, good planning, and organization will promote success. Required in-person evening exams will be given 2/14 6:30-8:30p, 3/21 6:30-8:30p, and 4/14 6:30-8:30p.",
+      "Every Semester / "
+    ],
+    [
+      "E81 CSE 502N",
+      "Data Structures & Algorithms",
+      "3.0 Units",
+      "Study of fundamental algorithms, data structures, and their effective use in a variety of applications. Emphasizes importance of data structure choice and implementation for obtaining the most efficient algorithm for solving a given problem. A key component of this course is worst-case asymptotic analysis, which provides a quick and simple method for determining the scalability and effectiveness of an algorithm. Online textbook purchase required. Prerequisite: CSE 131 and fluency with summations, derivatives, and proofs by induction. Two evening exams at which attendance is required will be held on Wednesday, February 23 from 6:30-8:30 pm and Wednesday, April 6 from 6:30-8:30 pm, and Wednesday, May 4th 10 am-12 pm.",
+      "None / "
+    ],
+    [
+      "E81 CSE 503S",
+      "Rapid Prototype Development and Creative Programming",
+      "3.0 Units",
+      "This course uses web development as a vehicle for developing skills in rapid prototyping. Students acquire the skills to build a Linux web server in Apache, to write a web site from scratch in PHP, to run an SQL database, to perform scripting in Python, and to develop modern web applications in client-side and server-side JavaScript. The course culminates with a creative project in which students are able to synthesize the course material into a project of their own interest. The course implements an interactive studio format: after a formal presentation of a topic, students develop a related project under the supervision of the instructor. 330S and 503S share the same lecture. Students who opt for the 503S version will be expected to complete more work, commensurate with the graduate-level course number. Prerequisite: CSE 131",
+      "None / "
+    ],
+    [
+      "E81 CSE 504N",
+      "Object-Oriented Software Development Laboratory",
+      "3.0 Units",
+      "Intensive focus on practical aspects of designing, implementing and debugging software, using object-oriented, procedural, and generic programming techniques. The course emphasizes familiarity and proficiency with a wide range of C++ language features through hands-on practice completing studio exercises and lab assignments, supplemented with readings and summary presentations for each session. An evening midterm exam at which attendance is required will be on Thursday, April 2nd from 6:30-8:30 p.m.  Prerequisites: CSE 247.",
+      "None / "
+    ],
+    [
+      "E81 CSE 505N",
+      "Introduction to Digital Logic and Computer Design",
+      "3.0 Units",
+      "Introduction to design methods for digital logic and fundamentals of computer architecture. Boolean algebra and logic minimization techniques; sources of delay in combinational circuits and effect on circuit performance; survey of common combinational circuit components; sequential circuit design and analysis; timing analysis of sequential circuits; use of computer-aided design tools for digital logic design (schematic capture, hardware description languages, simulation); design of simple processors and memory subsystems; program execution in simple processors; basic techniques for enhancing processor performance; configurable logic devices. Prerequisites: CSE 131",
+      "None / "
+    ],
+    [
+      "E81 CSE 517A",
+      "Machine Learning",
+      "3.0 Units",
+      "This course assumes a basic understanding of machine learning and covers advanced topics at the frontier of the field in-depth. Topics to be covered include kernel methods (support vector machines, Gaussian processes), neural networks (deep learning), and unsupervised learning. Depending on developments in the field, the course will also cover some advanced topics, which may include learning from structured data, active learning, and practical machine learning (feature selection, dimensionality reduction). Prerequisites: CSE 247, CSE 417T, ESE 326, Math 233 and Math 309\n\n",
+      "None / "
+    ],
+    [
+      "E81 CSE 520S",
+      "Real-Time Systems",
+      "3.0 Units",
+      "This course covers software systems and network technologies for real-time applications such as automobiles, avionics, industrial automation and Internet of Things. Topics include real-time scheduling, real-time operating systems and middleware, Quality of Service, industrial networks and real-time cloud computing. Prerequisite: CSE 422S \n",
+      "None / "
+    ],
+    [
+      "E81 CSE 522S",
+      "Advanced Operating Systems",
+      "3.0 Units",
+      "This course offers an in-depth hands-on exploration of advanced uses of key OS abstractions, mechanisms and policies, with an increasing focus on understanding and evaluating their behaviors and interactions. Readings, lecture material, studio exercises, and lab assignments are closely integrated in an active-learning environment in which students gain experience and proficiency writing, tracing, and evaluating user-space and kernel-space code. Topics include how memory, processes and threads, virtual file systems, and other mechanisms can be used by hypervisors, containers, and other advanced OS abstractions, as well as forensic techniques for examining and managing system behavior. Prerequisite: CSE 422S.",
+      "None / "
+    ],
+    [
+      "E81 CSE 523S",
+      "Systems Security",
+      "3.0 Units",
+      "This course examines the intersection between computer design and information security. While performance and efficiency in digital systems have improved markedly in recent decades, computer security has worsened overall in this time frame. To understand why, we will explore the role that design choices play in the security characteristics of modern computer and network systems. Students will use and write software to illustrate mastery of the material. Projects will include identifying security vulnerabilities, exploiting vulnerabilities, and detecting and defending against exploits. Prerequisites: CSE 361S",
+      "None / "
+    ],
+    [
+      "E81 CSE 533T",
+      "Coding and Information Theory for Data Science",
+      "3.0 Units",
+      "Coding/information theory emerged in mid 20'th century as a mathematical theory of communication with noise. In latter decades it has developed to a vast topic encompassing most aspects of handling large datasets. The course will begin by surveying the classical mathematical theory and its basic applications in communication, and continue to contemporary applications in storage, computation, privacy, machine learning, and emerging technologies such as networks, blockchains, and DNA storage. The course is self-contained, but prior knowledge in algebra (such as Math 309 or ESE 318), discrete math (such as CSE 240 or Math 310), and probability (such as Math 2200 or ESE 326), as well as some mathematical maturity, is assumed. There will be 4-5 homework assignments, one in-person midterm on 3/24 from 6:30-8:30 p.m., and a final reading assignment.",
+      "None / "
+    ],
+    [
+      "E81 CSE 541T",
+      "Advanced Algorithms",
+      "3.0 Units",
+      "Provides a broad coverage of fundamental algorithm design techniques with the focus on developing efficient algorithms for solving combinatorial and optimization problems.  The topics covered include: greedy algorithms, dynamic programming, linear programming, NP-completeness, approximation algorithms, lower bound techniques, and on-line algorithms. Throughout this course there is an emphasis on correctness proofs and the ability to apply the techniques taught to design efficient algorithms for problems from a wide variety of application areas. Prerequisites: CSE 247 and 347.",
+      "None / "
+    ],
+    [
+      "E81 CSE 543T",
+      "Algorithms for Nonlinear Optimization",
+      "3.0 Units",
+      "The course will provide an in-depth coverage of modern algorithms for the numerical solution of multidimensional optimization problems. Unconstrained optimization techniques including Gradient methods, Newton's methods, Quasi-Newton methods, and conjugate methods will be introduced. The emphasis is on constrained optimization techniques: Lagrange theory, Lagrangian methods, penalty methods, sequential quadratic programming, primal-dual methods, duality theory, nondifferentiable dual methods, and decomposition methods. The course will also discuss applications in engineering systems and use of state-of-the-art computer codes. Special topics may include large-scale systems, parallel optimization, and convex optimization. Prerequisites: Calculus I and Math 309",
+      "None / "
+    ],
+    [
+      "E81 CSE 544A",
+      "Special Topics in Application: Software Engineering for External Clients",
+      "3.0 Units",
+      "The material for this course varies among offerings, but this course generally covers advanced or specialized topics in computer application.\n\nTeams of students will design and develop a solution to a challenging problem posed by a real-world client. Students will gain experience with a variety of facets of software development, such as gathering and interpreting requirements, software design/architecture, UI/UX, testing, documentation, and developer/client interactions. Prerequisite: At least junior standing",
+      "Unpredictable / "
+    ],
+    [
+      "E81 CSE 555T",
+      "Adversarial AI",
+      "3.0 Units",
+      "The material for this course varies among offerings, but this course generally covers advanced or specialized topics in computer science theory.",
+      "None / "
+    ],
+    [
+      "E81 CSE 557A",
+      "Advanced Visualization",
+      "3.0 Units",
+      "We are in an era where it is possible to have all of the world's information at our fingertips. However, the more information we can access, the more difficult it is to obtain a holistic view of the data or to determine what's important to make decisions. Computer-based visualization systems provide the opportunity to represent large or complex data visually to aid comprehension and cognition. In this course, we learn about the state-of-the-art in visualization research and gain hands-on experience with the research pipeline. We also learn how to critique existing work and how to formulate and explore sound research questions. We will cover advanced Visualization topics including User Modeling, Adaptation, Personalization, Perception, and Visual Analytics for Non-Experts. \nPrerequisites:  CSE 457A or permission of instructor\n\nRevised: 2019-02-21",
+      "None / "
+    ],
+    [
+      "E81 CSE 563M",
+      "Digital Integrated Circuit Design and Architecture",
+      "3.0 Units",
+      "This is a project-oriented course on digital VLSI design. The course material focuses on bottom-up design of digital integrated circuits, starting from CMOS transistors, CMOS inverters, combinational circuits and sequential logic designs. Important design aspect of digital integrated circuits such as propagation delay, noise margins and power dissipation are covered in the class, as well as design challenges in sub-micron technology are addressed. The students design combinational and sequential circuits at various levels of abstraction using state-of-the-art CAD environment provided by Cadence Design Systems. The goal of the class is to design a complete IC chip in 0.5 micron technology that will be fabricated by a semiconductor foundry. Prerequisites: CSE 260M and ESE 232.\n\n",
+      "None / "
+    ],
+    [
+      "E81 CSE 569S",
+      "Recent Advances in Computer Security and Privacy",
+      "3.0 Units",
+      "The aim of this course is to provide students with knowledge and hands-on experience in understanding the security techniques and methods needed for IoT, real-time, and embedded systems. Students complete an independent research project which will involve synthesizing multiple security techniques and applying them to an actual IoT, real-time, or embedded system or device.",
+      "None / "
+    ],
+    [
+      "E81 CSE 584A",
+      "Algorithms for Biosequence Comparison",
+      "3.0 Units",
+      "This course surveys algorithms for comparing and organizing discrete sequential data, especially nucleic acid and protein sequences. Emphasis is on tools to support search in massive biosequence databases and to perform fundamental comparison tasks such as DNA short-read alignment. Prerequisite: CSE 347 or permission of instructor.\n\nThese techniques are also of interest for more general string processing and for building and mining textual databases. Algorithms are presented rigorously, including proofs of correctness and running time where feasible. Topics include classical string matching, suffix array string indices, space-efficient string indices, rapid inexact matching by filtering (including BLAST and related tools), and alignment-free algorithms. Students complete written assignments and implement advanced comparison algorithms to address problems in bioinformatics. This course does not require a biology background. Prerequisites: CSE 347 or instructor permission\n\nRevised: 2019-02-21",
+      "None / "
+    ],
+    [
+      "E81 CSE 598",
+      "Masters Project",
+      "Var. Units (max = 6.0)",
+      "Students electing the project option for their master's degree perform their project work under this course. Prerequisite: permission of adviser.",
+      "None / "
+    ],
+    [
+      "E81 CSE 599",
+      "Masters Research",
+      "Var. Units (max = 6.0)",
+      "Prerequisite: permission of adviser.",
+      "None / "
+    ],
+    [
+      "E81 CSE 699",
+      "Doctoral Research",
+      "Var. Units (max = 9.0)",
+      "",
+      "None / "
+    ],
+    [
+      "E81 CSE 7001",
+      "Research Seminar on Computer Science Pedagogy",
+      "1.0 Unit",
+      "This seminar will examine research, techniques, approaches, and strategies for teaching computer science at the undergraduate and graduate level.  Participants will take turns presenting a particular paper or concept and then leading an ensuing discussion.  While this seminar may be especially helpful for those contemplating an academic career, the seminar is open to all interested participants.",
+      "None / "
+    ],
+    [
+      "E44 EECE 140",
+      "To Sustainability and Beyond: People, Planet, Prosperity (P3)",
+      "3.0 Units",
+      "To Sustainability and Beyond: People, Planet, Prosperity is a course designed for first-year students that combines interdisciplinary instruction with applied project work. Students will be introduced to global concepts in sustainability and examine how they relate to specific issues in the greater St. Louis community, learning what it means to be civic-minded stewards of social and ecological systems. Additionally, they will work on developing critical \"soft\" skills needed for success on the job, such as effective communication techniques, project management, and leadership. Students will emerge from the course with a systems-level understanding of sustainability, a working knowledge of the fundamentals of community engagement, and an appreciation for values-based civic stewardship. Experience in this course will prepare students for applied project-based work in other courses or internships, regardless of academic discipline. This course is for first-year (non-transfer) students only.",
+      "None / "
+    ],
+    [
+      "E44 EECE 202",
+      "Computational Modeling in Energy, Environmental and Chemical Engineering",
+      "3.0 Units",
+      "Computational tools to solve engineering, design and scientific problems encountered in thermodynamics, transport phenomena, separation processes and reaction kinetics. Introduction to programming skills in MATLAB and use of various MATLAB toolboxes.  Theory and application of numerical methods for solution of common problems, including methods for root-finding/optimization, curve fitting (regression, interpolation, and spline), integration, differentiation, and ordinary differential equations and boundary value problems.  Illustrative application examples. Prerequisites: CSE 131 and Math 217, or permission of instructor\n",
+      "None / "
+    ],
+    [
+      "E44 EECE 204",
+      "Thermodynamics II in EECE",
+      "3.0 Units",
+      "Molecular motions, kinetic theory of gases, kinetic theory of dense phases, chemical kinetics. Prerequisite: EECE 205 or EECE 201 and EECE 203 or permission of instructor.",
+      "None / "
+    ],
+    [
+      "E44 EECE 210",
+      "Introduction to Environmental Engineering",
+      "3.0 Units",
+      "The objective of this course is to introduce students to the field of environmental engineering.  The course will emphasize basic principles of mass and energy conservation which govern physical, chemical and biological processes.  Applications include the estimation of contaminant concentrations and the design of environmental controls.  Prerequisites: Chem 112A or Chem 106, Math 132, or permission of instructor",
+      "None / "
+    ],
+    [
+      "E44 EECE 301",
+      "Transport Phenomena I: Basics and Fluid Mechanics",
+      "3.0 Units",
+      "Engineering principles involved in the exchange of heat and matter in chemical processes. Laws governing the flow of liquids and gases in laboratory and plant equipment. Corequisite: ESE 318; Prerequisites: EECE 205 or both EECE 201 and EECE 203, or permission of instructor.",
+      "None / "
+    ],
+    [
+      "E44 EECE 304",
+      "Mass Transfer Operations",
+      "3.0 Units",
+      "Stagewise and continuous mass transfer operations, including distillation, gas absorption, humidification, leaching, liquid extraction, and membrane separations. Corequisites: EECE 204, EECE 202, or permission of instructor",
+      "None / "
+    ],
+    [
+      "E44 EECE 306",
+      "Biology in EECE",
+      "3.0 Units",
+      "The course provides an introduction to molecular biology, biochemistry, microbiology, and biotechnology. The course focuses on an engineering approach to microbiology and molecular biology. Topics include basics of molecular biology, mathematical analysis of biological systems, genetic engineering, and biotechnological applications. Corequisite: Math 217, or permission of instructor",
+      "Annually / "
+    ],
+    [
+      "E44 EECE 402",
+      "ChE Capstone",
+      "3.0 Units",
+      "Application of engineering science and design, fundamentals of process and product development, computational techniques and economic principles to design of chemical and biological processes and procedures.  A design project and/or an AIChE national design contest is included. Prerequisites: EECE 304, EECE 401, EECE 403, or permission of instructor.",
+      "None / "
+    ],
+    [
+      "E44 EECE 404",
+      "Environmental Engineering Capstone",
+      "3.0 Units",
+      "Methodology for formulating and solving open-ended design problems. The methodology is illustrated through a series of team projects drawn from multiple areas of environmental engineering practice. Topics addressed include the design process, cost estimation, consideration of codes and regulations, sustainability, and reliability. The course also provides content on professional practice, ethics, and professional licensure. Prerequisites: EECE 314; EECE 407",
+      "None / "
+    ],
+    [
+      "E44 EECE 412",
+      "Sustainability Exchange: Community and University Practicums",
+      "3.0 Units",
+      "The Sustainability Exchange will bring together students working in trans-disciplinary teams to tackle real-world energy, environmental, and sustainability problems through an experiential form of education. Students will participate in projects with clients and partners on- or off-campus, developed with and guided by faculty advisors drawn from across the University, with the intention of delivering an applicable end-product that explores \"wicked\" problems requiring innovative methods and solutions. These projects matter to the client or partner. The team-based project will be complemented by a seminar that will explore the field of design and design thinking through problem solving strategies and methodologies drawn from a wide range of creative practices, including design, engineering and science, as well as contemporary topics in energy, environment, and sustainability. Students will draw on these topics to influence their projects. The course is designed primarily for undergraduates, with preference given to juniors and seniors.",
+      "None / "
+    ],
+    [
+      "E44 EECE 423",
+      "Senior Thesis",
+      "Var. Units (max = 6.0)",
+      "Research project to be selected by the student with the permission and recommendation of a faculty supervisor and the approval of the department chair. At conclusion of project, student prepares a report in the form of a senior thesis.",
+      "None / "
+    ],
+    [
+      "E44 EECE 424",
+      "Digital Process Control Laboratory",
+      "3.0 Units",
+      "Applications of digital control principles to laboratory experiments supported by a networked distributed control system. Lecture material reviews background of real-time programming, data acquisition, process dynamics, and process control. Exercises in data acquisition and feedback control design using simple and advanced control strategies. Experiments in flow, liquid level, temperature, and pressure control. Term project. Prerequisite: ESE 441 or EECE 401 or equivalent.",
+      "None / "
+    ],
+    [
+      "E44 EECE 425",
+      "Environmental Engineering Laboratory",
+      "3.0 Units",
+      "Laboratory experiments to illustrate the application of engineering fundamentals to environmental systems. Applications of experimental design and data analysis principles. Introduction to relevant analytical instrumentation and laboratory techniques. Laboratory work supported by theoretical analysis and modeling as appropriate. Prerequisite: EECE 210 or EECE 205 (or EECE 201 and EECE 203); Corequisite: ESE 326, or permission of instructor",
+      "None / "
+    ],
+    [
+      "E44 EECE 428",
+      "Introduction into Zymurgy",
+      "3.0 Units",
+      "This course will introduce students to beer brewing and fermentation by combining clear and detailed lectures with practical, hands-on brewing and laboratory tests. This course presents the fundamentals of the underlying chemistry critical to successful extract and all-grain brewing. Topics covered in this course include beer brewing terminology, brewing materials and supplies, laboratory tests, and basic chemical and biochemical interactions. The students will select and brew three batches of beer typically used in home brew recipes using a malt extract method and all grain methods. The class will attend field trips to a large brewer and a small craft brewer to gain experience in this growing industry. This class prepares students for further instruction and for positions as brewers in commercial breweries and microbreweries. Prerequisite: Age of 21 or approval by instructor. Students registering for this course will be placed on a waitlist. A separate course application will be provided to the students to be submitted to the course instructor for approval. Prerequisites: General chemistry (Chem 111A or Chem 112A), General Chemistry Laboratory (Chem 151 or Chem 152), Intro to Energy, Environmental and Chemical Engineering (EECE 101), and  Thermodynamics I in Energy, Environmental and Chemical Engineering (EECE 203). Transport Phenomena I (EECE 301) and Mass Transfer Operations (EECE 304) may be completed or taken together as corequisites.",
+      "None / "
+    ],
+    [
+      "E44 EECE 506",
+      "Bioprocess Engineering I: Fundamentals & Applications",
+      "3.0 Units",
+      "The course covers the fundamentals and provides the basic knowledge needed to understand and analyze processes in biotechnology in order to design, develop and operate them efficiently and economically. This knowledge is applied to understand various applications and bioprocesses, such as formation of desirable bio and chemical materials and products, production of bioenergy, food processing and waste treatment. The main objective of the course is to introduce the essential concepts and applications of bioprocessing to students of diverse backgrounds. An additional project is required to obtain graduate credit. Prerequisites: L41 Biol 2960 or equivalent or permission of instructor. \n",
+      "None / "
+    ],
+    [
+      "E44 EECE 507",
+      "Kinetics and Reaction Engineering Principles",
+      "3.0 Units",
+      "The course is aimed at a  modern  multiscale treatment of kinetics of chemical and biochemical reactions and application of these fundamentals to analyze and design reactors. Application of reaction engineering principles in the areas related to energy generation, pollution prevention, chemical and  biochemical processes  will be studied and  illustrated  with case studies and computer models. Description of the role of mass and heat transport in reacting systems is also provided with numerous examples. \n",
+      "None / "
+    ],
+    [
+      "E44 EECE 508",
+      "Research Rotation",
+      "0.0 Unit",
+      "First-year doctoral students in EECE should undertake Research Rotation as a requirement prior to choosing a permanent research adviser. The rotation will require the student to work under the guidance of a faculty member. \n",
+      "None / "
+    ],
+    [
+      "E44 EECE 509",
+      "Seminar in Energy, Environmental, and Chemical Engineering",
+      "1.0 Unit",
+      "All graduate students in EECE should attend the Departmental Seminar Series to gain exposure in various diverse fields of research.  Students are also expected to participate in journal clubs and other discussion formats to discuss topical research areas.  The course is required of all graduate students every semester of residency in the Program.\n\n",
+      "None / "
+    ],
+    [
+      "E44 EECE 512",
+      "Combustion Phenomena",
+      "3.0 Units",
+      "This course provides an introduction to fundamental aspects of combustion phenomena, including relevant thermochemistry, fluid mechanics, and transport processes as well as the interactions among them. Emphasis is on elucidation of the physico-chemical processes, problem formulation and analytic techniques. Topics covered include non-premixed and premixed flames, deflagrations and detonations, particle combustion, flame extinction, flame synthesis, pollutant formation and methods of remediation. Contemporary topics associated with combustion are discussed throughout. Prerequisite: Graduate standing or permission of instructor.",
+      "None / "
+    ],
+    [
+      "E44 EECE 514",
+      "Atmospheric Science and Climate",
+      "3.0 Units",
+      "This course will cover current research topics in atmospheric chemistry and climate change. Topics include atmospheric composition, chemistry, transport, dynamics, radiation, greenhouse gases, natural and anthropogenic primary pollution sources and secondary aerosol production, and measurement techniques. Focus will be placed on how our atmosphere and climate are altered in a world of changing energy production and land use. Prereqs: Chemistry 112A, Physics 198, and junior or higher standing.",
+      "Every 2 Years / "
+    ],
+    [
+      "E44 EECE 533",
+      "Physical and Chemical Processes for Water Treatment",
+      "3.0 Units",
+      "Water treatment is examined from the perspective of the physical and chemical unit processes used in treatment.  The theory and fundamental principles of treatment processes are covered and are followed by the operation of treatment processes.  Processes covered include gas transfer, adsorption, precipitation, oxidation-reduction, flocculation, sedimentation, filtration, and membrane processes. Corequisites: EECE 204 and EECE 210 or equivalents, or permission of instructor",
+      "None / "
+    ],
+    [
+      "E44 EECE 535",
+      "Environmental Data Science",
+      "3.0 Units",
+      "Many grand challenges we face today require understanding and manipulation of processes at the interface of natural and manmade environments. Oftentimes, such knowledge is acquired through data. Skills to effectively visualize and analyze data and build predictive models are valued across different sectors of the society. This class is an application-driven Prerequisites: Differential equations (EECE503 or equivalents, Math 217 or equivalents), Linear algebra (EECE 503 or equivalents), probability and statistics (ESE 326 or equivalents), or permission of instructor.",
+      "None / "
+    ],
+    [
+      "E44 EECE 552",
+      "Biomass Energy Systems and Engineering",
+      "3.0 Units",
+      "This course offers background in the organic chemistry, biology and thermodynamics related to understanding the conversion of biomass. In addition includes relevant topics relating to biomass feedstock origin, harvest, transportation, storage, processing and pretreatment along with matters concerning thermo- and bio-chemical conversion technologies required to produce fuels, energy, chemicals, and materials. Also, various issues with respect to biomass characterization, economics and environmental impact will be discussed.  The main objective of the course is to introduce concepts central to a large-scale integrated biomass bioconversion system.",
+      "None / "
+    ],
+    [
+      "E44 EECE 554",
+      "Molecular Biochemical Engineering",
+      "3.0 Units",
+      "This course is set for junior level graduate students to bridge the gap between biochemical engineering theory and academic research in bioengineering. It will cover common molecular biotechnologies (molecular biology, microbiology, recombinant DNA technology, protein expression etc), biochemical models (enzyme catalysis, microbial growth, bioreactor etc) and bioengineering methodologies (protein engineering, expression control systems etc). These theories and technologies will be introduced in a manner closely related to daily academic research or biochemical industry. Areas of application include biofuel and chemical production, drug discovery and biosynthesis, bioremediation, and environmental applications. This course also contains a lab section (20~30%) that requires students to apply the knowledge learned to design experiments, learn basic experimental skills and solve current research problems. Prerequisites: EECE 101, Bio 2960, Bio 4810.",
+      "None / "
+    ],
+    [
+      "E44 EECE 574",
+      "Electrochemical Engineering",
+      "3.0 Units",
+      "This course will teach the fundamentals of electrochemistry and the application of the same for analyzing various electrochemical energy sources/devices. The theoretical frameworks of current-potential distributions, electrode kinetics, porous electrode and concentrated solution theory will be presented in the context of modeling, simulation and analysis of electrochemical systems. Applications to batteries, fuel cells, capacitors, copper deposition will be explored. Pre/co-requisites: EECE 501-502 (or equivalent), or permission of instructor. (Prior to FL2015, this course was numbered: E33 589.)",
+      "None / "
+    ],
+    [
+      "E44 EECE 576",
+      "Chemical Kinetics and Catalysis",
+      "3.0 Units",
+      "This course reflects the fast, contemporary progress being made in decoding kinetic complexity of chemical reactions, in particular heterogeneous catalytic reactions.  New approaches to understanding relationships between observed kinetic behaviour and reaction mechanism will be explained. Present theoretical and methodological knowledge will be illustrated by many examples taken from heterogeneous catalysis (complete and partial oxidation), combustion and enzyme processes.  Prerequisite:  senior or graduate student standing, or permission of instructor.",
+      "None / "
+    ],
+    [
+      "E44 EECE 599",
+      "Masters Research",
+      "Var. Units (max = 9.0)",
+      "",
+      "None / "
+    ],
+    [
+      "E44 EECE 600",
+      "Doctoral Research",
+      "Var. Units (max = 9.0)",
+      "",
+      "None / "
+    ],
+    [
+      "E60 Engr 150",
+      "Topics in Undergraduate Research",
+      "1.0 Unit",
+      "This course provides an engineering perspective in understanding how an undergraduate research experience serves as an integral tool for maximizing a student's ability to analyze a discipline in depth and contribute significantly to its knowledge base. We will discuss the ethical issues involved in research and how some research projects are designed and conducted within engineering.  We will hear from experts in various disciplines on how they approach research as well as from WU students on how they have benefited from conducting research. Course restricted to McKelvey Scholars.",
+      "None / "
+    ],
+    [
+      "E60 Engr 217",
+      "Historical and Philosophical Aspects of Science, Engineering and Technology",
+      "3.0 Units",
+      "Science, engineering and technology have profoundly influenced humanity.  They have been, and will continue to be, essential components of human activity. Culture, language, psychology, sociology and economics have all been heavily influenced by them, as have many other disciplines.  The goal of this class is to allow the student to gain an understanding of the history of science, engineering and technology and why their integration is a cornerstone of contemporary civilization. The course will also enable students to gain a greater appreciation and understanding of the impact that these fields have had and will continue to have on humanity, from both a historical and philosophical perspective. This is expected to foster better communication between scientists, engineers and laypersons. The course is open to all disciplines, with or without a background in science or engineering. Scientific principles, if taught at all, will be taught at a rudimentary level.",
+      "Spring / Summer / "
+    ],
+    [
+      "E60 Engr 310",
+      "Technical Writing",
+      "3.0 Units",
+      "Persistent concerns of grammar and style. Analysis and discussion of clear sentence and paragraph structure and of organization in complete technical documents. Guidelines for effective layout and graphics. Examples and exercises stressing audience analysis, graphic aids, editing, and readability. Videotaped work in oral presentation of technical projects. Writing assignments include descriptions of mechanisms, process instructions, basic proposals, letters and memos, and a long formal report. Prerequisites: Satisfaction of the English composition proficiency requirement of the School and junior standing.",
+      "None / "
+    ],
+    [
+      "E60 Engr 316",
+      "Reflective Writing in Medicine and Healthcare",
+      "1.0 Unit",
+      "Reflective writing is an essential step on the path to any career in medicine, public health, nursing, dentistry, or other healthcare fields.  As you apply for and interview for the next step in that path, it's important to be comfortable communicating your journey to your chosen career and the moments that have shaped you along the way.  Explore some of the topics and experiences you might consider using in your personal statement and application, journal about shadowing and volunteer experiences, read and critique others' writing, learn the skills and strategies for this format, and meet one-on-one with the professor to perfect your reflective writing into a presentable and polished format.  This course is designed for juniors and seniors; preference will be given to McKelvey School pre-med/pre-health students.  Prerequisites:  junior standing; must have fulfilled the College Writing requirement.",
+      "None / "
+    ],
+    [
+      "E60 Engr 324",
+      "From Concept to Market: The Business of Engineering",
+      "3.0 Units",
+      "This course will introduce students to the fascinating and complex process of bringing new technologies from the concept stage to the market place. The course draws on experiences of successful entrepreneurs and industry professionals to address some of the most important elements of the technology life cycle. Topics include the theory, practice, challenges and opportunities of business strategy development, FDA regulations, product development, finances, sales and marketing, patents and intellectual property protection, team and corporate culture and professional ethics. The course exposes students to the real-world experiences of guest speakers with diverse backgrounds including practicing engineers, entrepreneurs, attorneys, investors, industrial psychologists, team development professionals, career development coaches and other relevant professionals. The course provides fun, thought-provoking and interactive learning throughout the semester, culminating in presentations by student groups at the end of the semester in lieu of a final exam. Student teams each conceive a hypothetical product and develop and present a complete business plan addressing issues covered throughout the course. Students bring remarkable creativity and imagination to the final project, bringing the course to a rousing conclusion. Business, arts and sciences and other non-engineering students are encouraged to join the course and take advantage of the value it offers. Pre-requisites: Junior or Senior standing, or permission of the instructor.",
+      "None / "
+    ],
+    [
+      "E60 Engr 330",
+      "Amplifying Cyberdiversity: Real Humans in Virtual Spaces",
+      "3.0 Units",
+      "Explore human identity in cyberspace, from the dawn of the Internet to today's \"cyberspace,\" where powerful algorithms are already deeply woven into every aspect of our personal lives:  education, politics, consumer activity, finances, employment, relationships, medicine, psychology, spirituality, etc.\nCentral to the course are questions of identity.  What constitutes \"identity\"?  How do intersecting identity markers such as race, age, class, sex, gender, sexuality, nationality, and ethnicity create a sense of  \"Yes-this is me\"?\nMore importantly:  how have historical, systemic, identity-based inequalities already become the foundation of our online realities? How does cyber-identity affect our biological lives?\nAt the end of this class, students will have ethical competencies to recognize and analyze the historical, unconscious, and/or invisible systemic biases and inequalities coded into the algorithms that amplify the effects of both discrimination and unearned privilege in our \"real\" lives.\nThey will be able to communicate professionally in ways that are both evidence-based and emotionally intelligent  as they analyze the paradoxical ways that cyberspaces both reinforce and revolutionize our most basic human institutions:  family, work, education, government. \n \nDr. Lynnea Brumbaugh merges her decades of teaching both diversity studies and technical, managerial communication to produce this novel course exploring  what happens to real human beings when we build virtual spaces that amplify existing biases, inequalities, and discrimination.\n\n",
+      "None / "
+    ],
+    [
+      "E60 Engr 4501",
+      "Engineering Ethics and Sustainability",
+      "1.0 Unit",
+      "This course introduces tools and skills required to understand, evaluate, and resolve ethical problems in engineering practice.  By studying both historic and hypothetical engineering cases, as well as theory, the student will more fully appreciate a professional's responsibilities in applying emerging technologies to modern challenges. Special attention will be given to sustainability in response to global social issues.   Students will have opportunities to demonstrate mature decision making skills and to appreciate the importance of lifelong learning about both professional practice and ethical issues.",
+      "None / "
+    ],
+    [
+      "E60 Engr 4502",
+      "Engineering Leadership and Team Building",
+      "1.0 Unit",
+      "Forms of leadership and qualities of effective leaders evaluated through case studies, with opportunities for self-analysis. Teamwork and effective team-building skills in engineering environments, with a focus on multidisciplinary and complex engineering projects.",
+      "None / "
+    ],
+    [
+      "E60 Engr 4503",
+      "Conflict Management and Negotiation",
+      "1.0 Unit",
+      "Learn core competencies that lead to effective conflict management.  Discern underlying sources of conflict and approaches to work through it.  Develop a plan to handle confrontation as well as strategies that will minimize future conflict.  Resolving conflict helps facilitate achieving personal, team, and organizational goals, leading to higher performance levels.",
+      "None / "
+    ],
+    [
+      "E60 Engr 450F",
+      "Engineers in the Community (Engineering Ethics, Leadership and Conflict Management)",
+      "3.0 Units",
+      "This class fulfills the requirements for 4501, 4502, 4503 in a three-credit combined course in an alternate format.  Expanding the themes currently taught in these 3 courses to encourage students to see parallels in a local community, students will consider how engineers might make a positive impact. Graduating seniors will have priority.",
+      "None / "
+    ],
+    [
+      "E60 Engr 505",
+      "Communication Tools for Academic & Professional Success in Engineering",
+      "2.0 Units",
+      "This is a course designed for international students.  The course will provide students with tools to assist with language proficiency, career guidance and cultural learning experiences.",
+      "None / "
+    ],
+    [
+      "E35 ESE 205",
+      "Introduction to Engineering Design",
+      "3.0 Units",
+      "A hands-on course where students, in groups, will investigate how to collect, filter and analyze the data for a system. The sampling, quantization, and corruption of the data in the real system will be used to develop models that can then be applied as feedback for control.  The tools required for programming, assembling, documenting and debugging the system will be developed.   The later portion of the course will involve applying the skills learned to a comprehensive project, such as controlling an autonomous drone.  The course will consist of one weekly lecture and a weekly lab component. Prerequisite Course: CSE131 \nCorequisite Course(s): ESE 105, Phy192",
+      "None / "
+    ],
+    [
+      "E35 ESE 230",
+      "Introduction to Electrical and Electronic Circuits",
+      "4.0 Units",
+      "Electrical energy, current, voltage, and circuit elements. Resistors, Ohm's Law, power and energy, magnetic fields and DC motors. Circuit analysis and Kirchhoff's voltage and current laws. Thevenin and Norton transformations and the superposition theorem. Measuring current, voltage and power using ammeters and voltmeters. Energy and maximum electrical power transfer. Computer simulations of circuits. Reactive circuits, inductors, capacitors, mutual inductance, electrical transformers, energy storage, and energy conservation. RL, RC and RLC circuit transient responses. AC circuits, complex impedance, RMS current and voltage. Electrical signal amplifiers and basic operational amplifier circuits. Inverting, non-inverting, and difference amplifiers. Voltage gain, current gain, input impedance, and output impedance. Weekly laboratory exercises related to the lectures are an essential part of the course. Prerequisites: Phys 198/118A. Corequisite: Math 217.",
+      "Every Semester / "
+    ],
+    [
+      "E35 ESE 232",
+      "Introduction to Electronic Circuits",
+      "3.0 Units",
+      "Analysis and design of linear and nonlinear electronic circuits. Detailed analysis of operational amplifier circuits, including non-ideal characteristics. Terminal characteristics of active semiconductor devices. Incremental and DC models for diodes, metal-oxide-semiconductor field effect transistors (MOSFETs), and bipolar junction transistors (BJTs). Design and analysis of single- and multi-stage amplifiers. Introduction to CMOS logic as well as static and dynamic memory circuits. Students will be required to design, analyze, build and demonstrate several of the circuits studied, including frequency response analysis and use of simulation tools. Prerequisite: ESE 230.\n",
+      "None / "
+    ],
+    [
+      "E35 ESE 260",
+      "Introduction to Digital Logic and Computer Design",
+      "3.0 Units",
+      "Introduction to design methods for digital logic and fundamentals of computer architecture. Boolean algebra and logic minimization techniques; sources of delay in combinational circuits and effect on circuit performance; survey of common combinational circuit components; sequential circuit design and analysis; timing analysis of sequential circuits; use of computer-aided design tools for digital logic design (schematic capture, hardware description languages, simulation); design of simple processors and memory subsystems; program execution in simple processors; basic techniques for enhancing processor performance; configurable logic devices. Prerequisites: CSE 131",
+      "None / "
+    ],
+    [
+      "E35 ESE 318",
+      "Engineering Mathematics A",
+      "3.0 Units",
+      "Laplace transforms; matrix algebra; vector analysis; eigenvalues and eigenvectors; vector differential calculus and vector integral calculus in three dimensions.  Prerequisites:  Math 233 and Math 217 or their equivalents.",
+      "None / "
+    ],
+    [
+      "E35 ESE 319",
+      "Engineering Mathematics B",
+      "3.0 Units",
+      "Power series and Frobenius series solutions of differential equations; Legendre's equation; Bessel's equation; Fourier series and Fourier transforms; Sturm-Liouville theory; solutions of partial differential equations; wave and heat equations.  Prerequisites:  Math 233 and Math 217 or their equivalents.",
+      "None / "
+    ],
+    [
+      "E35 ESE 326",
+      "Probability and Statistics for Engineering",
+      "3.0 Units",
+      "Study of probability and statistics together with engineering applications.  Probability and statistics: random variables, distribution functions, density functions, expectations, means, variances, combinatorial probability, geometric probability, normal random variables, joint distribution, independence, correlation, conditional probability, Bayes theorem, the law of large numbers, the central limit theorem.  Applications: reliability, quality control, acceptance sampling, linear regression, design and analysis of experiments, estimation, hypothesis testing.  Examples are taken from engineering applications.  Prerequisites: Math 233 or equivalent.",
+      "Every Semester / "
+    ],
+    [
+      "E35 ESE 331",
+      "Electronics Laboratory",
+      "3.0 Units",
+      "Laboratory exercises provide students with a combination of hands-on experience involving electronic circuits.  Students will use a variety of real instruments, analysis techniques and circuit simulation tool to summarize measurement results in written reports that clearly communicate laboratory results. A sequence of lab experiments provide hands-on experience in: properties of diodes and transistors, realistic operational amplifier characteristics, grounding and shielding techniques, signal analysis, and op amp based active filter design and characterization. Students will gain experience working with: sampling oscilloscopes to make measurements in the time and frequency domains, signal generators, digital multimeter and frequency measurements, and in creating circuits and making connections on contemporary circuit boards. The course concludes with a hands-on project to design, demonstrate and document the design of an electronic component. Prerequisite: ESE 232",
+      "Annually / "
+    ],
+    [
+      "E35 ESE 332",
+      "Power, Energy, and Polyphase Circuits",
+      "3.0 Units",
+      "Fundamental concepts of power and energy; electrical measurements; physical and electrical arrangement of electrical power systems; polyphase circuit theory and calculations; principal elements of electrical systems such as transformers, rotating machines, control, and protective devices, their description and characteristics; elements of industrial power system design. Prerequisite: ESE 230.",
+      "None / "
+    ],
+    [
+      "E35 ESE 351",
+      "Signals and Systems",
+      "3.0 Units",
+      "Introduction to concepts and methodology of discrete- and continuous-time signals in relation to linear dynamic systems. Representation of signals and systems. Fourier, Laplace, and Z-transforms. Input-output description of linear systems: impulse response, convolution, transfer function.  Time-domain and frequency-domain system analysis: transient and steady-state responses, stability, frequency spectra and frequency responses. Matlab-based case studies highlight the role of this material in key ESE areas of signal processing, control systems, and communication. Prerequisites: Physics 117A-118A, Math 217, CSE 131, Matlab, matrix addition and multiplication, and ESE 105 or ESE 230; Corequisite: ESE 318.",
+      "Every Semester / "
+    ],
+    [
+      "E35 ESE 401",
+      "Fundamentals of Engineering Review",
+      "1.0 Unit",
+      "A review and preparation of the most recent NCEES Fundamentals of Engineering (FE) Exam specifications is offered in a classroom setting.  Exam strategies will be illustrated using examples. The main topics for the review include: engineering mathematics, statics, dynamics, thermodynamics, heat transfer, mechanical design and analysis, material science and engineering economics.   A discussion of the importance and responsibilities of professional engineering licensure along with Ethics will be included.",
+      "None / "
+    ],
+    [
+      "E35 ESE 404",
+      "Applied Operations Research",
+      "3.0 Units",
+      "Application of operations research techniques to real-world problems. Emphasis is given to integer linear programming and computational methods.  Real-world examples of integer programs will be studied in areas such as network flow, facility location, partitioning, matching, and transporation.  Special emphasis will be placed on techniques used to solve integer programs. Prerequisites: ESE 403 and CSE 131.\n",
+      "None / "
+    ],
+    [
+      "E35 ESE 415",
+      "Optimization",
+      "3.0 Units",
+      "This course gives a rigorous and comprehensive introduction of fundamentals of nonlinear optimization theory and computational methods. Topics include unconstrained and constrained optimization, quadratic and convex optimization, numerical optimization methods, optimality conditions, and duality theory. Algorithmic methods include Steepest Descent, Newton's method, Conjugate Gradient methods as well as exact and inexact line search procedures for unconstrained optimization. Constrained optimization methods include penalty and multiplier methods. Applications range from engineering and physics to economics. Moreover, generalized programming, interior point methods, and semi-definite programming will be discussed if time permits.  Prerequisites: CSE 131, Math 309 and ESE 318 or permission of instructor.",
+      "None / "
+    ],
+    [
+      "E35 ESE 417",
+      "Introduction to Machine Learning and Pattern Classification",
+      "3.0 Units",
+      "This course provides a broad introduction to machine learning and statistical pattern classification. Students will study theoretical foundations of learning and several important supervised and unsupervised machine learning methods and algorithms including linear model of regression and classification, logistic regression, Bayesian learning methods, neural networks, nearest neighbor method, support vector machines methods, clustering methods and principal component analysis. Students will also learn to use Python programming language to implement learned models and methods to solve pattern classification problems.\nPre-requisites: ESE326, Math 233, Python Programming Experience\n",
+      "None / "
+    ],
+    [
+      "E35 ESE 4261",
+      "Statistical Methods for Data Analysis with Applications to Financial Engineering",
+      "3.0 Units",
+      "Introduction to modern methods of statistical data analysis. Data will be used primarily from the financial industry. The course is both computational and mathematical in nature. Most facts will be stated in a rigorous manner, motivated by applications and justified at an intuitive level, but usually not proven rigorously. Emphasis will be on the relevance of concepts and the practical use of tools. A broad range of topics will be covered, including some standard techniques of univariate and multivariate data analysis (histograms, kernel density estimators, Q-Q plots), Monte Carlo simulations and calculations, analysis of heavy tailed data, use of copulas, various parametric and non-parametric regression models, both local and nonlocal, as well as analysis of time series data and Kalman filtering. Methods will be demonstrated on numerous concrete examples, with extensive use of the programming language R. Prerequisite: ESE 326",
+      "None / "
+    ],
+    [
+      "E35 ESE 429",
+      "Basic Principles of Quantum Optics and Quantum Information",
+      "3.0 Units",
+      "This course provides an accessible introduction to quantum optics and quantum engineering for undergraduate students. This course covers the following topics: Concept of photons, quantum mechanics for quantum optics, radiative transitions in atoms, lasers, photon statistics (photon counting, Sub-/Super-Poissionian photon statistics, bunching, anti-bunching, theory of photodetection, shot noise), entanglement, squeezed light, atom-photon interactions, cold atoms, atoms in cavities. The course will also provide an overview for quantum information processing: quantum computing, quantum cryptography, and teleportation.  Prerequisite Course: ESE 318 or equivalent.",
+      "Fall / Summer / "
+    ],
+    [
+      "E35 ESE 438",
+      "Applied Optics",
+      "3.0 Units",
+      "Topics relevant to the engineering and physics of conventional as well as experimental optical systems and applications explored. Items addressed include geometrical optics, Fourier optics such as diffraction and holography, polarization and optical birefringence such as liquid crystals, and nonlinear optical phenomena and devices. Prerequisite: ESE 330 or equivalent.",
+      "Annually / "
+    ],
+    [
+      "E35 ESE 441",
+      "Control Systems",
+      "3.0 Units",
+      "Introduction to the theory and practice of automatic control for dynamical systems. Dynamical systems as models for physical and observed phenomena.  Mathematical representation of dynamical systems, such as state-space differential and difference equations, transfer functions, and block diagrams. Analysis of the time evolution of a system in response to control inputs, steady-state and transient responses, equilibrium points and their stability. Control via linear state feedback, and estimation using Luenberger observers. Relating the time response of a system to its frequency response, including Bode and Nyquist plots. Input-output stability and its relation to the stability of equilibrium points. Simple frequency-based controllers, such as PID and lead-lag compensators. Exercise involving the use of MATLAB/Simulink (or equivalent) to simulate and analyze systems. Prerequisites: CSE 131, and either ESE 351 or MEMS 4310.",
+      "None / "
+    ],
+    [
+      "E35 ESE 444",
+      "Sensors and Actuators",
+      "3.0 Units",
+      "The course provides engineering students with basic understanding of two of the main components of any modern electrical or electromechanical system; sensors as inputs and actuators as outputs. The covered topics include transfer functions, frequency responses and feedback control. Component matching and bandwidth issues. Performance specification and analysis, Sensors: analog and digital motion sensors, optical sensors, temperature sensors, magnetic and electromagnetic sensors, acoustic sensors, chemical sensors, radiation sensors, torque, force and tactile sensors. Actuators: stepper motors, DC and AC motors, hydraulic actuators, magnet and electromagnetic actuators, acoustic actuators. Introduction to interfacing methods: bridge circuits, A/D and D/A converters, microcontrollers. This course is useful for those students interested in control engineering, robotics and systems engineering. Prerequisites: one of the following 4 conditions:(1) prerequisite of ESE 230 and corequisite of ESE 351; (2) prerequisites of ESE 230, ESE 318 and MEMS 255 (Mechanics II); (3) prerequisites of ESE 351; (4) permission of instructor.",
+      "Every 1 or 2 Years / "
+    ],
+    [
+      "E35 ESE 446",
+      "Robotics: Dynamics and Control",
+      "3.0 Units",
+      "Homogeneous coordinates and transformation matrices. Kinematic equations and the inverse kinematic solutions for manipulators, the manipulator Jacobian and the inverse Jacobian. General model for robot arm dynamics, complete dynamic coefficients for six-link manipulator. Synthesis of manipulation control, motion trajectories, control of single- and multiple-link manipulators, linear optimal regulator. Model reference adaptive control, feedback control law for the perturbation equations along a desired motion trajectory. Design of the control system for robotics. Prerequisites: ESE 351, knowledge of a programming language, and ESE  318; Co-requisite: ESE 441.",
+      "None / "
+    ],
+    [
+      "E35 ESE 448",
+      "Systems Engineering Laboratory",
+      "3.0 Units",
+      "Experimental study of real and simulated systems and their control. Identification, input-output analysis, design and implementation of control systems. Noise effects. Design and implementation of control laws for specific engineering problems. Corequisite: ESE 441 and knowledge of a programming language.",
+      "Annually / "
+    ],
+    [
+      "E35 ESE 4480",
+      "Control Systems Design Laboratory",
+      "3.0 Units",
+      "This course involves the experimental study of real and simulated systems and their control. Topics covered will include modeling; identification; model validation and control of systems, including noise effects, using a two-link robotic manipulator as an experimental testbed; mathematical modeling of robotic systems; nonlinear and linearized models; input-output and state-space techniques; model validation and simulation; and stabilization using linear and nonlinear control techniques. Prerequisite: ESE 351 or MEMS 431. Corequisite or prerequisite: ESE 441.",
+      "None / "
+    ],
+    [
+      "E35 ESE 4481",
+      "Autonomous Aerial Vehicle Control Laboratory",
+      "3.0 Units",
+      "This course covers the integration of dynamical systems and control engineering principles toward the manipulation of a quadrotor unmanned aerial vehicle (UAV), sometimes referred to as a drone. Students will analytically transform a nonlinear description of the UAV system used for dynamic simulation into a conventional, linear state space system. Students will use key control engineering concepts -- including system identification, state estimation and control synthesis -- to command their UAVs to hover, climb, and orbit. In addition to principles of estimation and identification, students will learn about the theory of guidance and navigation, with projects such as flight planning and execution, collision avoidance, and competitive or cooperative tasks (e.g., formation flight). The overall objective is to expose students to the fusion of control, estimation, and identification techniques that are fundamental to systems theory. Prerequisites: ESE 441 and knowledge of a programming language, or permission of instructor.",
+      "None / "
+    ],
+    [
+      "E35 ESE 449",
+      "Digital Process Control Laboratory",
+      "3.0 Units",
+      "Applications of digital control principles to laboratory experiments supported by a networked distributed control system. Lecture material reviews background of real-time programming, data acquisition, process dynamics, and process control. Exercises in data acquisition and feedback control design using simple and advanced control strategies. Experiments in flow, liquid level, temperature, and pressure control. Term project. Prerequisite: ESE 441 or EECE 401 or equivalent.",
+      "None / "
+    ],
+    [
+      "E35 ESE 462",
+      "Computer Systems Design",
+      "3.0 Units",
+      "Introduction to modern design practices, including FPGA and PCB design methodologies. Student teams use Xilinx Vivado for HDL-based FPGA design and simulation and do schematic capture, PCB layout, fabrication, and testing of the hardware portion of a selected computation system. The software portion of the project uses Microsoft Visual Studio to develop a user interface and any additional support software required to demonstrate final projects to the faculty during finals week. Prerequisites: ESE 232, CSE 361S, and 362M from Washington University in St. Louis (or permission of instructor).\n\nLab Fee: $200\nThere will be no text: We will supply each student with some electronics\nfor their semester project instead.\n",
+      "None / "
+    ],
+    [
+      "E35 ESE 463",
+      "Digital Integrated Circuit Design and Architecture",
+      "3.0 Units",
+      "This is a project-oriented course on digital VLSI design. The course material focuses on bottom-up design of digital integrated circuits, starting from CMOS transistors, CMOS inverters, combinational circuits and sequential logic designs. Important design aspect of digital integrated circuits such as propagation delay, noise margins and power dissipation are covered in the class, as well as design challenges in sub-micron technology are addressed. The students design combinational and sequential circuits at various levels of abstraction using state-of-the-art CAD environment provided by Cadence Design Systems. The goal of the class is to design a complete IC chip in 0.5 micron technology that will be fabricated by a semiconductor foundry. Prerequisites: CSE 260M and ESE 232.\n\n",
+      "None / "
+    ],
+    [
+      "E35 ESE 471",
+      "Communications Theory and Systems",
+      "3.0 Units",
+      "Introduction to the concepts of transmission of information via communication channels. Amplitude and angle modulation for the transmission of continuous-time signals. Analog-to-digital conversion and pulse code modulation. Transmission of digital data. Introduction to random signals and noise and their effects on communication. Optimum detection systems in the presence of noise. Elementary information theory. Overview of various communication technologies such as radio, television, telephone networks, data communication, satellites, optical fiber, and cellular radio. Prerequisites: ESE 351 and ESE 326.",
+      "None / "
+    ],
+    [
+      "E35 ESE 488",
+      "Signals and Communication Laboratory",
+      "3.0 Units",
+      "Laboratory exercises in digital signal processing, data conversion and communications using modern laboratory techniques and apparatus based on National Instruments LabVIEW and ELVIS II workstations. A laboratory course designed to complement the traditional ESE course offerings in signal processing and communication theory. Signals and systems fundamentals: continuous-time and discrete-time linear time-invariant systems, frequency response, oversampled and noise-shaped A/D conversion. Digital signal processing: FIR and IIR digital filter design, application of the Fast Fourier Transform. Communication theory: baseband, digital communication, amplitude modulation, phase modulation, bandpass digital communication. Laboratory experiments involve analog and digital electronics. Computer workstations and modern computational software used extensively for system simulation and real-time signal processing.  Prerequisite:  ESE 351.",
+      "Annually / "
+    ],
+    [
+      "E35 ESE 498",
+      "Electrical Engineering Capstone Design Projects",
+      "3.0 Units",
+      "Capstone design project supervised by the course instructor. The project must use the theory, techniques, and concepts of the student's major: electrical engineering or systems science & engineering. The solution of a real technological or societal problem is carried through completely, starting from the stage of initial specification, proceeding with the application of engineering methods, and terminating with an actual solution. Collaboration with a client, typically either an engineer or supervisor from local industry or a professor or researcher in university laboratories, is encouraged. A proposal, an interim progress update, and a final report are required, each in the forms of a written document and oral presentation, as well as a Web page on the project. Weekly progress reports and meetings with the instructor are also required. Prerequisite: ESE senior standing and instructor's consent. Note: this course will meet at the scheduled time only during select weeks. If you cannot attend at that time, you may still register for the course.",
+      "None / "
+    ],
+    [
+      "E35 ESE 499",
+      "Systems Science and Engineering Capstone Design Project",
+      "3.0 Units",
+      "Capstone design project supervised by the course instructor. The project must use the theory, techniques, and concepts of the student's major: electrical engineering or systems science & engineering. The solution of a real technological or societal problem is carried through completely, starting from the stage of initial specification, proceeding with the application of engineering methods, and terminating with an actual solution. Collaboration with a client, typically either an engineer or supervisor from local industry or a professor or researcher in university laboratories, is encouraged. A proposal, an interim progress update, and a final report are required, each in the forms of a written document and oral presentation, as well as a Web page on the project. Weekly progress reports and meetings with the instructor are also required.  Prerequisite: ESE senior standing and instructor's consent. Note: this course will meet at the scheduled time only during select weeks. If you cannot attend at that time, you may still register for the course.",
+      "Every Semester / "
+    ],
+    [
+      "E35 ESE 502",
+      "Mathematics of Modern Engineering II",
+      "3.0 Units",
+      "Fourier series and Fourier integral transforms and their applications to solving some partial differential equations, heat and wave equations; Complex analysis and its applications to solving real-valued problems: analytic functions and their role, Laurent series representation, complex-valued line integrals and their evaluation including the residual integration theory, conformal mappings and their applications.  Prerequisite: ESE 318 and ESE 319 or ESE 317 or equivalent, or consent of instructor. This course will not count toward the ESE doctoral program.",
+      "None / "
+    ],
+    [
+      "E35 ESE 520",
+      "Probability and Stochastic Processes",
+      "3.0 Units",
+      "Review of probability theory, models for random signals and noise, calculus of random processes, noise in linear and nonlinear systems, representation of random signals by sampling and orthonormal expansions. Poisson, Gaussian, and Markov processes as models for engineering problems.  Prereq: ESE 326.",
+      "Annually / "
+    ],
+    [
+      "E35 ESE 524",
+      "Detection and Estimation Theory",
+      "3.0 Units",
+      "Study of detection and estimation of signals in noise.  Linear algebra, vector spaces, independence, projections.  Data independence, factorization theorem and sufficient statistics.  Neyman-Pearson and Bayes detection.  Least squares, maximum-likelihood and maximum a posteriori estimation of signal parameters.  Conjugate priors, recursive estimation, Wiener and Kalman filters. Prerequisite: ESE 520.",
+      "None / "
+    ],
+    [
+      "E35 ESE 527",
+      "Practicum in Data Analytics & Statistics",
+      "3.0 Units",
+      "In this course, students will learn through hands-on experience the application of analytics to support data-driven decisions. Through lectures and the execution of a project (to be defined at the beginning of the semester), students will learn to use descriptive, predictive, and prescriptive analytics. Lectures will focus on presenting analytic topics relevant to the execution of the project, including analytic model development, data quality and data models, review of machine learning algorithms (unsupervised, supervised, and semi-supervised approaches), model validation, insights generation and results communication, and code review and code repository. Students are expected to demonstrate the application of these concepts through the execution of a one-semester project. Students can propose their own projects or choose from a list of projects made available by the lecturer. Projects should reflect real-world problems with a clear value proposition.  Progress will be evaluated and graded periodically during the semester, and the course will include a final presentation open to the academic community. Prerequisites: ESE 520 (or Math 493 and 494), CSE 417T, ESE 415, and declaration of the MS in DAS.",
+      "None / "
+    ],
+    [
+      "E35 ESE 547",
+      "Robust and Adaptive Control",
+      "3.0 Units",
+      "This course is a graduate level course taught in two parts.  Part 1 covers frequency domain analysis of multivariable systems, robustness theory and structured singular value mu analysis, linear quadratic optimal control system design using state and output feedback architectures, H-infinity optimal control, LQG/LTR, and output feedback projective controls.  Part 2 covers the design of direct model reference adaptive controllers for uncertain nonlinear systems, Lyapunov stability theory, Barbalat lemma, neural networks, state feedback model reference adaptive control, and adaptive observer-based loop transfer recovery output feedback.  Homework and computer design projects use aerospace examples.  The adaptive controllers are developed to be an increment added to the robust control baseline architecture (covered in part 1).Prerequisite: ESE 543 Control Systems Design by State Space Methods or ESE 551 Linear Dynamic Systems or equivalent.",
+      "None / "
+    ],
+    [
+      "E35 ESE 553",
+      "Nonlinear Dynamic Systems",
+      "3.0 Units",
+      "State space and functional analysis approaches to nonlinear systems. Questions of existence, uniqueness, and stability; Lyapunov and frequency-domain criteria; w-limits and invariance, center manifold theory and applications to stability, steady state response and singular perturbations. Poincare-Bendixson theory, the van der Pol oscillator and the Hopf Bifurcation theorem. Prerequisite: ESE 551.",
+      "None / "
+    ],
+    [
+      "E35 ESE 5690",
+      "Special Topics in Hardware & Devices: Hardware Acceleration & Optimization for Machine Learning",
+      "3.0 Units",
+      "Overview of machine learning hardware; Feature extraction and wake-up modules; Inference engines; training engines; Emerging hardware architectures; Performance analysis and testing of machine learning accelerators. Prerequisite(s) CSE417 or equivalent, ESE260 or equivalent\n",
+      "None / "
+    ],
+    [
+      "E35 ESE 572",
+      "Signaling and Control in Communication Networks",
+      "3.0 Units",
+      "The operation of modern communications networks is highly dependent on sophisticated control mechanisms that direct the flow of information through the network and oversee the allocation of resources to meet the communication demands of end users. This course covers the structure and operation of modern signaling systems and addresses the major design trade-offs which center on the competing demands of performance and service flexibility. Specific topics covered include protocols and algorithms for connection establishment and transformation, routing algorithms, overload and failure recovery and networking dimensioning. Case studies provide concrete examples and reveal the key design issues. Prerequisites: Graduate standing and permission of instructor.",
+      "None / "
+    ],
+    [
+      "E35 ESE 582",
+      "Fundamentals and Applications of Modern Optical Imaging",
+      "3.0 Units",
+      "Analysis, design, and application of modern optical imaging systems with emphasis on biological imaging.  First part of course will focus on the physical principles underlying the operation of imaging systems and their mathematical models.  Topics include ray optics (speed of light, refractive index, laws of reflection and refraction, plane surfaces, mirrors, lenses, aberrations), wave optics (amplitude and intensity, frequency and wavelength, superposition and interference, interferometry), Fourier optics (space-invariant linear systems, Huygens-Fresnel principle, angular spectrum, Fresnel diffraction, Fraunhofer diffraction, frequency analysis of imaging systems), and light-matter interaction (absorption, scattering, dispersion, fluorescence).  Second part of course will compare modern quantitative imaging technologies including, but not limited to, digital holography, computational imaging, and super-resolution microscopy.  Students will evaluate and critique recent optical imaging literature.Pre-requisites: ESE 318 and ESE 319 or their equivalents; ESE 330 or PHY 421 or equivalent.\n",
+      "None / "
+    ],
+    [
+      "E35 ESE 589",
+      "Biological Imaging Technology",
+      "3.0 Units",
+      "This class will develop a fundamental understanding of the physics and mathematical methods that underlie biological imaging and critically examine case studies of seminal biological imaging technology literature. The physics section will examine how electromagnetic and acoustic waves interact with tissues and cells, how waves can be used to image the biological structure and function, image formation methods and diffraction limited imaging. The math section will examine image decomposition using basis functions (e.g. fourier transforms), synthesis of measurement data, image analysis for feature extraction, reduction of multi-dimensional imaging datasets, multivariate regression, and statistical image analysis. Original literature on electron, confocal and two photon microscopy, ultrasound, computed tomography, functional and structural magnetic resonance imaging and other emerging imaging technology will be critiqued.",
+      "None / "
+    ],
+    [
+      "E35 ESE 590",
+      "Electrical & Systems Engineering Graduate Seminar",
+      "0.0 Unit",
+      "This satisfactory/unsatisfactory course is required for the Masters, DSc and PhD degrees in Electrical and Systems Engineering. A satisfactory grade is required for each semester of enrollment and is received by attendance at regularly scheduled ESE seminars. Masters students must attend at least 3 seminars per semester, except for first year Master's students who must attend 4. DSc and PhD students must attend at least 5 seminars per semester, except for first year PhD students who must attend 6. Part-time students are exempt except during their year of residency. Any student under continuing status is also exempt.",
+      "Every Semester / "
+    ],
+    [
+      "E35 ESE 5932",
+      "Computational Methods for Imaging Science",
+      "3.0 Units",
+      "Inverse problems are ubiquitous in science and engineering, and form the basis for modern imaging methods. This course will introduce students to the mathematical formulation of inverse problems and modern computational methods employed to solve them. Specific topics covered will include regularization theory, compressive sampling, variational calculus, and a survey of relevant numerical optimization methods. The application of these methods to tomographic imaging problems will be addressed in detail. \n\nPrerequisite: ESE 5931 (Mathematics of Imaging Science) or consent of instructor\n",
+      "None / "
+    ],
+    [
+      "E35 ESE 5934",
+      "Practicum in Imaging Science",
+      "3.0 Units",
+      "Students develop research results in computational imaging and write a conference paper on the results. The process of research project design and implementation in imaging science.  Participation in research teams.  Development of milestones in a project and process of meeting expectations. Role of machine learning, computational methods, theoretical methods, datasets, and experiments in imaging science research. Prerequisite:  permission of instructor.",
+      "None / "
+    ],
+    [
+      "E35 ESE 599",
+      "Masters Research",
+      "Var. Units (max = 3.0)",
+      "Prerequisite: Students must have the ",
+      "None / "
+    ],
+    [
+      "E35 ESE 600",
+      "Doctoral Research",
+      "Var. Units (max = 9.0)",
+      "",
+      "None / "
+    ],
+    [
+      "E35 ESE 884",
+      "Doctoral Continuing Student Status",
+      "0.0 Unit",
+      "",
+      "Every Semester / "
+    ],
+    [
+      "E37 MEMS 1001",
+      "Machine Shop Practicum",
+      "1.0 Unit",
+      "Operation of basic machine tools including: lathe, drill press, grinder and mill.  Student shop privilege requires completion of this practicum.\n",
+      "None / "
+    ],
+    [
+      "E37 MEMS 1004",
+      "Advanced Machine Shop Practicum",
+      "1.0 Unit",
+      "Students will learn to use the vertical machining centers (LPM and 2op), bed mill, and CNC Lathe. Conversation programming and CAD/CAM programming will be taught. Learning to load and unload tooling, set tooling offset, reconcile tools within a program, satisfy machine operational requirements, and complete safety checks will be part of the learning experience. You will learn to read G-Code and M-Code generated by the CAM program and recognize machining events in real time.  Pre-requisites: MEMS 1001 Machine Shop Practicum.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 101",
+      "Introduction to Mechanical Engineering and Mechanical Design",
+      "2.0 Units",
+      "Mechanical engineers face new challenges in the areas of energy, materials and systems.  This course introduces students to these areas through team-based, hands-on projects that emphasize engineering design, analysis, and measurement skills.",
+      "Annually / "
+    ],
+    [
+      "E37 MEMS 201",
+      "Numerical Methods and Matrix Algebra",
+      "3.0 Units",
+      "This course provides students with computational tools for solving mechanical, structural, and aerospace engineering problems.  An introduction to MATLAB will be presented, including: data input/output, program flow control, functions and graphics.  Topics covered include: matrices, determinants, rank, vector spaces, solutions of linear systems, interpolation and curve fitting, numeric differentiation and integration, eigenvalue and initial-value problems, nonlinear equations and optimization. Each topic will be treated in the context of a typical engineering application. Prerequisite: Math 217",
+      "None / "
+    ],
+    [
+      "E37 MEMS 202",
+      "Computer-Aided Design",
+      "2.0 Units",
+      "An introduction to computer aided engineering design in the context of mechanical and structural engineering.  Students learn the fundamentals of spatial reasoning and graphical representation.  Freehand sketching skills, including pictorial and orthographic views, are applied to the design process.  Computer modeling techniques provide accuracy, analysis, and visualization tools necessary for the design of structures, devices and machines.  Topics include: detailing design for production, fasteners, dimensioning, tolerancing, creation of part and assembly drawings, computer aided design, analysis and optimization of parts and assemblies; solid modeling of complex surfaces, assembly modeling, assembly constraints, and interference checking.",
+      "Every Semester / "
+    ],
+    [
+      "E37 MEMS 203",
+      "Advanced Computer-Aided Design",
+      "3.0 Units",
+      "Computer aided design, analysis and optimization of parts and assemblies; solid modeling of complex surfaces, creation of detail drawings, dimensioning and tolerancing; assembly modeling, assembly constraints, interference checking; motion constraints, force and acceleration analysis, thermal analysis; part optimization for weight, strength and thermal characteristics using Solidworks software.  Pre-requisite: MEMS 202 or equivalent.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 255",
+      "Dynamics",
+      "3.0 Units",
+      "Review of vector algebra and calculus. Kinematics of a particle. Newton's laws and the kinetics of a particle. Work and energy. Impulse and momentum. Kinematics of rigid bodies. General theorems for systems of particles. Kinetics of rigid bodies. The inertia tensor.  Prerequisites: Math 217\n",
+      "None / "
+    ],
+    [
+      "E37 MEMS 3110",
+      "Machine Elements",
+      "3.0 Units",
+      "Overview of the steps in the engineering design process and an introduction to several classes of machine elements such as bearings, gears, belts, brakes, and springs. Underlying analytical models of the machine elements are presented along with guidelines about designing and choosing such elements for practical applications. A case study of the steps of the design process as well as the rationale for choosing particular machine elements is discussed.  \nPrerequisite: MEMS 253 and Corequisite: MEMS 3610\n",
+      "None / "
+    ],
+    [
+      "E37 MEMS 3420",
+      "Heat Transfer",
+      "3.0 Units",
+      "Introductory treatment of the principles of heat transfer by conduction, convection, or radiation; analysis of steady and unsteady conduction with numerical solution methods; analytical and semi empirical methods of forced and natural convection; boiling and condensation heat transfer; and radiation heat transfer. Two evening exams at which attendance is required will be on Wednesdays, February 16 and March 30 from 6:30-8:30 p.m.\nPre-requisites: MEMS 3410 and 301, ESE 318 and ESE 319\n",
+      "None / "
+    ],
+    [
+      "E37 MEMS 350",
+      "Solid Mechanics",
+      "3.0 Units",
+      "Selected topics in the mechanics of deformable solids, presented at a level intermediate between introductory strength of materials and advanced continuum mechanics. Lectures will discuss elastic and elasto-plastic response, failure criteria, beams, and structural stability, as well as an introduction of the tensorial formulation of stress and strain and the governing equations of 3-D linear elasticity. Mathematical methods from calculus, linear algebra, and differential equations will be used. Prerequisite MEMS 253; Corequisite ESE 318; MEMS 255 not required.",
+      "Annually / "
+    ],
+    [
+      "E37 MEMS 3610",
+      "Materials Science",
+      "3.0 Units",
+      "Introduction to properties, chemistry and physics of engineering materials; conduction, semiconductors, crystalline structures, imperfections, phase diagrams, kinetics, mechanical properties, ceramics, polymers, corrosion, magnetic materials, and thin films; relationship of atomic and molecular structure to physical and chemical properties; selection of materials for engineering applications; relationships between physical properties, chemical properties and performance of engineering materials. Two evening exams at which attendance is required will be on Mondays, 2/14 and 3/21 from 6:30-8:30 p.m. Pre-requisite: Chem 111A and 151\n",
+      "None / "
+    ],
+    [
+      "E37 MEMS 4001",
+      "Fundamentals of Engineering Review",
+      "1.0 Unit",
+      "A review and preparation of the most recent NCEES Fundamentals of Engineering (FE) Exam specifications is offered in a classroom setting.  Exam strategies will be illustrated using examples. The main topics for the review include: engineering mathematics, statics, dynamics, thermodynamics, heat transfer, mechanical design and analysis, material science and engineering economics.   A discussion of the importance and responsibilities of professional engineering licensure along with Ethics will be included.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 412",
+      "Design of Thermal Systems",
+      "3.0 Units",
+      "Analysis and design of advanced thermo-fluid systems, including phase change and gas power and refrigeration cycles, combustion reactions, gas mixtures, and thermodynamic relations. Students work on thermodynamic design projects, both individually and as groups. Topics include, for example, geothermal power generation, alternative transportation systems, jet turbines, and fuel combustion analysis. The final group project involves research, design synthesis, engineering economics, environmental impact analysis, a written report, and a poster presentation.  Prerequisite MEMS 301 Thermodynamics\n",
+      "Annually / "
+    ],
+    [
+      "E37 MEMS 424",
+      "Introduction to Finite Element Methods in Structural Analysis",
+      "3.0 Units",
+      "Application of finite element methods to beams, frames, trusses and other structural components. Modeling techniques used for different types of problems engineers solve. In addition, the approach of applied loads, boundary conditions, deflections and internal loads used for stress analysis across different industries. The application of matrix methods, energy concepts and structural mechanics to the development of finite element modeling methods are foundational topics.\nPrerequisites: MEMS 253, MEMS 350 and ESE 318\n",
+      "None / "
+    ],
+    [
+      "E37 MEMS 4301",
+      "Modeling, Simulation and Control",
+      "3.0 Units",
+      "Introduction to simulation and control concepts.  Topics include: block diagram representation of single-and multi-loop systems, control system components, transient and steady-state performance, stability analysis, Nyquist, Bode, and root locus diagrams, compensation using lead, lag and lead-lag networks, design synthesis by Bode plots and root-locus diagrams, state-variable techniques, state-transition matrix, state-variable feedback.  Prerequisite: MEMS 255, ESE 318 and ESE 319.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5001",
+      "Optimization Methods in Engineering",
+      "3.0 Units",
+      "Analytical methods in design.  Topics include:  mathematical methods, linear and nonlinear programming, optimality criteria, fully stressed techniques for the design of structures and machine components, topological optimization, search techniques and genetic algorithms.  Calculus and computer programming are prerequisites.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 501",
+      "Graduate Seminar",
+      "0.0 Unit",
+      "This is a required satisfactory/pass/fail course for masters and doctoral degrees. A satisfactory S grade is required for each semester of full-time enrollment.  A satisfactory S grade is received by attendance at the weekly seminars.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5302",
+      "Theory of Vibrations",
+      "3.0 Units",
+      "Analytical methods in vibrations. Topics include: Duhamel's integral, Laplace and Fourier transforms, and Fourier series with applications to transient response, forced response, and vibration isolation, Lagrange's equations for linear systems, discrete systems, degrees of freedom, reducible coordinates, holonomic constraints, and virtual work, matrix methods and state variable approach with applications to frequencies and modes, stability, and dynamic response in terms of real and complex modal expansions, dynamic response of continuous systems by theory of partial differential equations, Rayleigh-Ritz and Galerkin energy methods, finite difference and finite element algorithms.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5401",
+      "General Thermodynamics",
+      "3.0 Units",
+      "General foundations of thermodynamics valid for small and large systems, and for equilibrium and non-equilibrium states. Topics include: definitions of state, work, energy, entropy, temperature, heat interaction, and energy interaction. Applications to simple systems, phase rule, perfect and semi-perfect gas, bulk-flow systems, combustion, energy and entropy balances, availability analysis for thermo-mechanical power generation, and innovative energy-conversion schemes. Prerequisite: Graduate standing or permission of instructor.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5403",
+      "Conduction and Convection Heat Transfer",
+      "3.0 Units",
+      "This course examines heat conduction and convection through various fundamental problems that are constructed from the traditional conservation laws for mass, momentum, and energy.  Problems include the variable-area fin, the unsteady Dirichlet, Robbins, and Rayleigh problems, multi-dimensional steady conduction, the Couette flow problem, duct convection, and boundary layer convection.  Though some numerics are discussed, emphasis is on mathematical technique and includes the extended power series method, similarity reduction, separation of variables, integral transforms, and approximate integral methods.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5411",
+      "Fluid Dynamics II",
+      "3.0 Units",
+      "Governing equations and thermodynamics relations for compressible flow.  Topics include: kinetic theory of gases, steady, one-dimensional flows with friction and heat transfer, shock waves, Rankine-Hugoniot relations, oblique shocks, reflections from walls and flow interfaces, expansion waves, Prandtl-Meyer flow, flow in nozzles, diffusers and inlets, two-and three dimensional flows, perturbation methods, similarity rules, compressible laminar and turbulent boundary layers, acoustic phenomena.  Emphasis is relevant to air vehicles.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5423",
+      "Sustainable Environmental Building Systems",
+      "3.0 Units",
+      "Sustainable design of building lighting and HVAC systems considering performance, life-cycle cost and downstream environmental impact.  Criteria, codes and standards for comfort, air quality, noise/vibration and illumination.  Life cycle and other investment methods to integrate energy consumption/conservation, utility rates, initial cost, system/component longevity, maintenance cost and building productivity.  Direct and secondary contributions to acid rain, global warming and ozone depletion.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5500",
+      "Elasticity",
+      "3.0 Units",
+      "Elastic constitutive relations for isotropic and anisotropic materials. Formulation of boundary-value problems. Applications to torsion, flexure, plane stress, plane strain, and generalized plane stress problems. Solution of three-dimensional problems in terms of displacement potentials and stress functions.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5562",
+      "Cardiovascular Mechanics",
+      "3.0 Units",
+      "This course focuses on solid and fluid mechanics in the cardiac and cardiovascular system. Cardiac and cardiovascular physiology and anatomy. Solid mechanics of the heart, heart valves, arteries, veins, and microcirculation. Flow through the heart chambers and blood vessels. Prerequisites: graduate standing or permission of instructor.\n\n",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5603",
+      "Materials Characterization Techniques I",
+      "3.0 Units",
+      "An introduction to the basic theory and instrumentation used in transmission electron, scanning electron, and optical microscopy.  Practical laboratory experience in equipment operations, experimental procedures, and material characterization.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5605",
+      "Mechanical Behavior of Composites",
+      "3.0 Units",
+      "Analysis and mechanics of composite materials. Topics include micromechanics, laminated plate theory, hydrothermal behavior, creep, strength, failure modes, fracture toughness, fatigue, structural response, mechanics of processing, nondestructive evaluation, and test methods. Prerequisite: Graduate standing or permission of the instructor.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5606",
+      "Soft Nanomaterials",
+      "3.0 Units",
+      "Soft nanomaterials, which range from self-assembled monolayers (SAMs) to complex 3D polymer structures, are gaining increased attention owing to their broad range applications. The course intends to introduce the fundamental aspects of nanotechnology pertained to soft matter.  Various aspects related to the design, fabrication, characterization and application of soft nanomaterials will be discussed.  Topics that will be covered include but not limited to SAMs, polymer brushes, Layer-by-Layer assembly, responsive polymers structures (films, capsules), polymer nanocomposites, biomolecules as nanomaterials and soft lithography.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5613",
+      "Biomaterials Processing",
+      "3.0 Units",
+      "Biomaterials with 3D structures are important for tissue regeneration. The goal of this class is to introduce various types of biomaterials and fabrication approaches to create 3D structures. The relationship between material properties, processing methods, and design will be the primary focus. The topics include degradable biomaterials for scaffold fabrication, processing of tissue engineering scaffolds, processing of tissue engineering hydrogels, processing of drug delivery systems, and scaffold surface modification.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5616",
+      "Defects in Materials",
+      "3.0 Units",
+      "Defects in materials play a critical role controlling properties of solids which make them interesting and necessary to study. The objective of this course is to provide a broad overview of defects in crystalline solids, their effect on properties, and methods of characterizing them. Course topics include crystal structures, defect classification, defect interactions, role of defects in controlling properties of materials, and characterization techniques.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5700",
+      "Aerodynamics",
+      "3.0 Units",
+      "Fundamental concepts of aerodynamics, equations of compressible flows, irrotational flows and potential flow theory, singularity solutions, circulation and vorticity, Kutta-Joukowski theorem, thin airfoil theory, finite wing theory, slender body theory, subsonic compressible flow and Prandtl-Glauert rule , supersonic thin airfoil theory, introduction to performance, basic concepts of airfoil design.  Prerequisite: MEMS 3410 Fluid Mechanics or permission from the instructor",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5701",
+      "Aerospace Propulsion",
+      "3.0 Units",
+      "Propeller, jet, ramjet and rocket propulsion.  Topics include: fundamentals of propulsion systems, gas turbine engines, thermodynamics and compressible flow, one-dimensional gas dynamics, analysis of engine performance, air breathing propulsion system, the analysis and design of engine components, and the fundamentals of ramjet and rocket propulsion.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5703",
+      "Analysis of Rotary-Wing Systems",
+      "3.0 Units",
+      "This course introduces the basic physical principles that govern the dynamics and aerodynamics of helicopters, fans and wind turbines. Simplified equations are developed to illustrate these principles, and the student is introduced to the fundamental analysis tools required for their solution.  Topics include:  harmonic balance, Floquet theory and perturbation methods.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 5705",
+      "Wind Energy Systems",
+      "3.0 Units",
+      "A comprehensive introduction to wind energy systems, a practical means of extracting green and sustainable energy. Topics include: a historical perspective of wind turbines; horizontal axis and vertical axis wind turbines; the basic parameters such as power rating and efficiency; the structural components ranging from blade and hub to nacelle and tower; wind turbine aerodynamics, aeroelasticity and control systems; blade fatigue; statistical wind modeling; unsteady airfoil aerodynamics and downstream wake; and environmental considerations such as noise and aesthetics. Prerequisite: senior or graduate standing in engineering, or permission of the instructor.",
+      "None / "
+    ],
+    [
+      "E37 MEMS 598",
+      "Energy Design Project",
+      "Var. Units (max = 3.0)",
+      "",
+      "None / "
+    ],
+    [
+      "E37 MEMS 600",
+      "Doctoral Research",
+      "Var. Units (max = 9.0)",
+      "",
+      "None / "
+    ],
+    [
+      "E37 MEMS 884",
+      "Doctoral Continuing Student Status",
+      "0.0 Unit",
+      "",
+      "None / "
+    ]
+  ]
