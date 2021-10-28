@@ -1,4 +1,7 @@
+import org.jetbrains.annotations.NotNull;
+
 import java.util.ArrayList;
+import java.util.stream.Stream;
 
 public class Course {
     private final String department;
@@ -6,62 +9,53 @@ public class Course {
     private ArrayList<Course> prerequisite;
     private ArrayList<Course> corequisite;
     private boolean completed;
-    private final String descrption;
+    private final String description;
     private final String title;
 
-    public Course(String department, String number, String descrption, ArrayList<Course> prerequisite, ArrayList<Course> corequisite, boolean completed, String title) {
+    public Course(String department, String number, String description, ArrayList<Course> prerequisite, ArrayList<Course> corequisite, boolean completed, String title) {
         this.department = department;
         this.number = number;
-        this.descrption = descrption;
+        this.description = description;
         this.prerequisite = prerequisite;
         this.corequisite = corequisite;
         this.completed = completed;
         this.title = title;
     }
 
-    public Course(String department, String number, String descrption, String title) {
+    public Course(String department, String number, String description, String title) {
         this.department = department;
         this.number = number;
-        this.descrption = descrption;
+        this.description = description;
         this.completed = false;
         this.title = title;
         this.prerequisite = null;
         this.corequisite = null;
     }
 
-
-
-    public boolean selectable(){
-        return coMet() && preMet();
+    public @NotNull ArrayList<Course> select(){
+        ArrayList<Course> arr = coMet();
+        arr.addAll(preMet());
+        return arr;
     }
 
-    private boolean preMet(){
-        if (prerequisite.isEmpty())
-            return true;
-        else {
-            for (Course course : prerequisite) {
-                if (!course.completed) {
-                    return false;
-                }
+    private @NotNull ArrayList<Course> preMet() {
+        ArrayList<Course> arr = new ArrayList<>();
+        for (Course course : prerequisite)
+            if (!course.completed) {
+                arr.add(course);
+                arr.addAll(course.select());
             }
-            return true;
-        }
+        return arr;
     }
 
-    private boolean coMet(){
-        if (corequisite.isEmpty())
-            return true;
-        else {
-            for (Course course : corequisite) {
-                if (!course.completed) {
-                    if (!course.selectable()) {
-                        return false;
-                    }
-                    // return true;
-                }
+    private @NotNull ArrayList<Course> coMet(){
+        ArrayList<Course> arr = new ArrayList<>();
+        for (Course course : corequisite)
+            if (!course.completed) {
+                arr.add(course);
+                arr.addAll(course.select());
             }
-            return true;
-        }
+        return arr;
     }
 
     public String getDepartment() {
@@ -80,8 +74,8 @@ public class Course {
         return corequisite;
     }
 
-    public String getDescrption() {
-        return descrption;
+    public String getDescription() {
+        return description;
     }
 
     public boolean isCompleted() {
@@ -106,6 +100,6 @@ public class Course {
 
     @Override
     public String toString() {
-        return department + " " + number;
+        return department + " " + number + " " + title;
     }
 }
